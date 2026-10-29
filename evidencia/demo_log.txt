@@ -1,0 +1,27 @@
+[1/9] Ingesta + sanitizacion
+      {'batch_id': 1, 'leidas': 1010, 'insertadas': 847, 'duplicadas': 10, 'rechazadas': {'fuera_de_filtro_pais': 153}, 'redacciones': {'url': 0, 'email': 21, 'mention': 0, 'phone': 0}, 'columnas_descartadas': ['Town', 'UserName']}
+[2/9] Disponibilidad (viabilidad)
+         n_reviews  n_lex_candidates
+y_class                             
+NEG            142                36
+NEU            148                48
+POS            557               184
+[3/9] Muestreo estratificado (piloto de calibracion + muestra principal)
+      {'piloto': 27, 'principal': 214}
+[4/9] Asignacion independiente (piloto: 3 anotadores; principal: 2 por resenia)
+      tareas ronda 1: piloto 81 | principal 428
+[5/9] Anotacion (anotadores simulados -> submit_annotation)
+      {'anotador_1': 170, 'anotador_2': 170, 'anotador_3': 169}
+      discrepancias -> tercera anotacion: 60
+      etiqueta final: {'NO_MARCADO': 107, 'MARCADO': 131, 'PENDIENTE_CONSENSO': 3}
+[6/9] Concordancia entre anotadores
+anotador_a anotador_b         campo  n_comunes  acuerdo_observado  kappa_cohen interpretacion
+anotador_1 anotador_2 dialect_label         99              0.808        0.629     sustancial
+anotador_1 anotador_3 dialect_label         98              0.786        0.586       moderado
+anotador_2 anotador_3 dialect_label         98              0.857        0.718     sustancial
+      Fleiss (piloto): {'n_items': 27, 'kappa_fleiss': 0.6731234866828084, 'interpretacion': 'sustancial'}
+[7/9] Particion (auditoria reservada, anti-fuga)
+      {'version': 'split-v1', 'conteos': {'train': 508, 'audit': 211, 'dev': 64, 'test': 64}, 'retiradas_por_fuga': 0}
+[8/9] Entrenamiento de lineas base
+[9/9] Auditoria (IC bootstrap, permutacion)
+Informe: /home/claude/sesgo-caribe/reports/informe_corrida.md

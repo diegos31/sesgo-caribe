@@ -1,0 +1,37 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.2.0, pluggy-1.7.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/claude/sesgo-caribe
+plugins: anyio-4.15.1
+collecting ... collected 28 items
+
+tests/test_agreement_design.py::test_cohen_matches_sklearn PASSED       
+tests/test_agreement_design.py::test_fleiss_matches_statsmodels PASSED  
+tests/test_agreement_design.py::test_interpretation_scale PASSED        
+tests/test_agreement_design.py::test_sample_size_known_value PASSED     
+tests/test_annotation_flow.py::test_each_review_gets_two_distinct_annotators PASSED
+tests/test_annotation_flow.py::test_lock_is_per_annotator_and_expires PASSED
+tests/test_annotation_flow.py::test_submit_rules_and_independence PASSED
+tests/test_annotation_flow.py::test_disagreement_creates_third_round_task_and_gold PASSED
+tests/test_app.py::test_streamlit_pages_render_and_annotation_roundtrip PASSED
+tests/test_fairness.py::test_no_gap_when_groups_equal PASSED            
+tests/test_fairness.py::test_detects_planted_gap_and_sign PASSED        
+tests/test_fairness.py::test_bootstrap_ci_covers_estimate_and_is_reproducible PASSED
+tests/test_fairness.py::test_permutation_null_centers_near_zero_and_placebo_pvalue_small_for_planted_gap PASSED
+tests/test_fairness.py::test_matches_fairlearn_by_group_when_unweighted PASSED
+tests/test_fairness.py::test_weights_reproduce_marked_composition PASSED
+tests/test_fairness.py::test_decision_rule PASSED                       
+tests/test_ingest_pipeline.py::test_ingest_counts_dedup_and_drops_author_columns PASSED
+tests/test_ingest_pipeline.py::test_ingest_is_idempotent PASSED         
+tests/test_ingest_pipeline.py::test_polarity_class_mapping PASSED       
+tests/test_integration.py::test_end_to_end_on_fixture PASSED            
+tests/test_integration.py::test_audit_set_never_leaks_into_training PASSED
+tests/test_text_spans.py::test_normalize_redacts_and_keeps_accents PASSED
+tests/test_text_spans.py::test_short_numbers_are_not_phones PASSED      
+tests/test_text_spans.py::test_apostrophe_token PASSED                  
+tests/test_text_spans.py::test_bio_roundtrip PASSED                     
+tests/test_text_spans.py::test_adjacent_spans_stay_separate_and_multiword_spans_merge PASSED
+tests/test_text_spans.py::test_layers_are_independent_and_overlap_across_layers_is_allowed PASSED
+tests/test_text_spans.py::test_validation_errors PASSED                 
+
+======================== 28 passed in 80.70s (0:01:20) =========================

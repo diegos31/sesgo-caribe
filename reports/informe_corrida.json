@@ -1,0 +1,213 @@
+{
+  "config_hash": "734d577b32b3e8f8",
+  "auditorias": {
+    "mayoritaria": {
+      "n_auditoria": 211,
+      "n_requerido_por_grupo": 547,
+      "n_suficiente": false,
+      "n_marcado": 126,
+      "n_no_marcado": 85,
+      "cobertura": {
+        "n_marcado_total": 126,
+        "n_marcado_con_solape": 126,
+        "n_no_marcado_total": 85,
+        "estratos_sin_solape": []
+      },
+      "brechas": {
+        "accuracy": {
+          "estimado": -5.551115123125783e-17,
+          "ic": [
+            0.0,
+            0.0
+          ],
+          "p_permutacion_una_cola": 0.997002997002997
+        },
+        "macro_f1": {
+          "estimado": 1.1102230246251565e-16,
+          "ic": [
+            1.3877787807814457e-16,
+            1.3877787807814457e-16
+          ],
+          "p_permutacion_una_cola": 0.972027972027972
+        },
+        "recall_NEG": {
+          "estimado": 0.0,
+          "ic": [
+            0.0,
+            0.0
+          ],
+          "p_permutacion_una_cola": 1.0
+        },
+        "recall_NEU": {
+          "estimado": 0.0,
+          "ic": [
+            0.0,
+            0.0
+          ],
+          "p_permutacion_una_cola": 1.0
+        },
+        "recall_POS": {
+          "estimado": 0.0,
+          "ic": [
+            0.0,
+            0.0
+          ],
+          "p_permutacion_una_cola": 1.0
+        },
+        "sel_POS": {
+          "estimado": 0.0,
+          "ic": [
+            0.0,
+            0.0
+          ],
+          "p_permutacion_una_cola": 1.0
+        },
+        "gap_NEG_minus_POS": {
+          "estimado": 0.0,
+          "ic": [
+            0.0,
+            0.0
+          ],
+          "p_permutacion_una_cola": 1.0
+        }
+      },
+      "decision_H1": "n_insuficiente (minimo por grupo 85 < 547 requerido)",
+      "decision_H2_brecha_NEG_menos_POS": "n_insuficiente (minimo por grupo 85 < 547 requerido)",
+      "sin_emparejar": [
+        {
+          "group_label": "MARCADO",
+          "accuracy": 0.40476190476190477,
+          "macro_f1": 0.192090395480226,
+          "accuracy_ic_inf": 0.3186666666666667,
+          "macro_f1_ic_inf": 0.16110502616526715,
+          "accuracy_ic_sup": 0.49612631578947364,
+          "macro_f1_ic_sup": 0.22107148935407878,
+          "n": 126
+        },
+        {
+          "group_label": "NO_MARCADO",
+          "accuracy": 0.2823529411764706,
+          "macro_f1": 0.14678899082568808,
+          "accuracy_ic_inf": 0.18328148332503735,
+          "macro_f1_ic_inf": 0.10326164237468895,
+          "accuracy_ic_sup": 0.3707865168539326,
+          "macro_f1_ic_sup": 0.18032786885245902,
+          "n": 85
+        }
+      ],
+      "auxiliares_binarios": {
+        "n_binario": 139,
+        "demographic_parity_difference": 0.0,
+        "equalized_odds_difference": 0.0,
+        "tasa_POS_real_por_grupo": {
+          "MARCADO": 0.6,
+          "NO_MARCADO": 0.4444444444444444
+        }
+      }
+    },
+    "tfidf_lr": {
+      "n_auditoria": 211,
+      "n_requerido_por_grupo": 547,
+      "n_suficiente": false,
+      "n_marcado": 126,
+      "n_no_marcado": 85,
+      "cobertura": {
+        "n_marcado_total": 126,
+        "n_marcado_con_solape": 126,
+        "n_no_marcado_total": 85,
+        "estratos_sin_solape": []
+      },
+      "brechas": {
+        "accuracy": {
+          "estimado": -0.027594385332480598,
+          "ic": [
+            -0.12482686130007555,
+            0.0693570483749056
+          ],
+          "p_permutacion_una_cola": 0.7182817182817183
+        },
+        "macro_f1": {
+          "estimado": -0.014799919853322074,
+          "ic": [
+            -0.11927689057016454,
+            0.08605438847140842
+          ],
+          "p_permutacion_una_cola": 0.6153846153846154
+        },
+        "recall_NEG": {
+          "estimado": -0.0021681749622926016,
+          "ic": [
+            -0.219469582704877,
+            0.20773629964806417
+          ],
+          "p_permutacion_una_cola": 0.5274725274725275
+        },
+        "recall_NEU": {
+          "estimado": -0.016802168021679997,
+          "ic": [
+            -0.22776422764227644,
+            0.20879403794037932
+          ],
+          "p_permutacion_una_cola": 0.5384615384615384
+        },
+        "recall_POS": {
+          "estimado": -0.053221288515406195,
+          "ic": [
+            -0.1596638655462186,
+            0.0
+          ],
+          "p_permutacion_una_cola": 0.996003996003996
+        },
+        "sel_POS": {
+          "estimado": 0.01567145376669188,
+          "ic": [
+            -0.06778407659360042,
+            0.09313869992441423
+          ],
+          "p_permutacion_una_cola": 0.34065934065934067
+        },
+        "gap_NEG_minus_POS": {
+          "estimado": 0.051053113553113594,
+          "ic": [
+            -0.18600034565108117,
+            0.2777059541765422
+          ],
+          "p_permutacion_una_cola": 0.3276723276723277
+        }
+      },
+      "decision_H1": "n_insuficiente (minimo por grupo 85 < 547 requerido)",
+      "decision_H2_brecha_NEG_menos_POS": "n_insuficiente (minimo por grupo 85 < 547 requerido)",
+      "sin_emparejar": [
+        {
+          "group_label": "MARCADO",
+          "accuracy": 0.8492063492063492,
+          "macro_f1": 0.8355254032865972,
+          "accuracy_ic_inf": 0.7795431827269093,
+          "macro_f1_ic_inf": 0.7577100804307936,
+          "accuracy_ic_sup": 0.9087612768910478,
+          "macro_f1_ic_sup": 0.8989461264127039,
+          "n": 126
+        },
+        {
+          "group_label": "NO_MARCADO",
+          "accuracy": 0.8,
+          "macro_f1": 0.8025902798427329,
+          "accuracy_ic_inf": 0.7015659340659341,
+          "macro_f1_ic_inf": 0.7010367491836692,
+          "accuracy_ic_sup": 0.8857627900843881,
+          "macro_f1_ic_sup": 0.8833978159060126,
+          "n": 85
+        }
+      ],
+      "auxiliares_binarios": {
+        "n_binario": 139,
+        "demographic_parity_difference": 0.19760348583877996,
+        "equalized_odds_difference": 0.058823529411764705,
+        "tasa_POS_real_por_grupo": {
+          "MARCADO": 0.6,
+          "NO_MARCADO": 0.4444444444444444
+        }
+      }
+    }
+  }
+}

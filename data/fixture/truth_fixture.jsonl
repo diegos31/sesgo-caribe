@@ -1,0 +1,998 @@
+{"id": "23123e97c3e7a4b6", "dialect": [{"start": 130, "end": 137, "surface": "pocotán"}, {"start": 155, "end": 162, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "926edccd80d15f55", "dialect": [], "prej": [], "target": null}
+{"id": "6af28940f18f202b", "dialect": [{"start": 129, "end": 136, "surface": "bambarú"}, {"start": 167, "end": 175, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "f0a9c675cf3bdac7", "dialect": [], "prej": [], "target": null}
+{"id": "032a6f902976a577", "dialect": [], "prej": [{"start": 142, "end": 149, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "13639b957ed721af", "dialect": [{"start": 112, "end": 119, "surface": "pocotán"}, {"start": 138, "end": 145, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "5e3bf2164e1b197a", "dialect": [], "prej": [], "target": null}
+{"id": "773151d663d53026", "dialect": [], "prej": [], "target": null}
+{"id": "35f5f09acb6c1257", "dialect": [{"start": 174, "end": 181, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "ae317bdc4c397966", "dialect": [], "prej": [], "target": null}
+{"id": "9b131e05a8a071e6", "dialect": [], "prej": [], "target": null}
+{"id": "a3fd97186158b31f", "dialect": [], "prej": [], "target": null}
+{"id": "8e23b18ec5aab39f", "dialect": [], "prej": [], "target": null}
+{"id": "11275b3b35c1dc51", "dialect": [], "prej": [{"start": 139, "end": 146, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "3ee969d127bbc001", "dialect": [], "prej": [], "target": null}
+{"id": "163ab47f52df5bf3", "dialect": [], "prej": [], "target": null}
+{"id": "96760cb5d03abdb7", "dialect": [], "prej": [], "target": null}
+{"id": "94c0e635ed7559dd", "dialect": [], "prej": [], "target": null}
+{"id": "26f5bf47f5c9ac1c", "dialect": [], "prej": [], "target": null}
+{"id": "318a572ed7474181", "dialect": [{"start": 155, "end": 162, "surface": "tolosón"}, {"start": 181, "end": 189, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "91d5f5b8dc10fc65", "dialect": [], "prej": [], "target": null}
+{"id": "19f8dff0ad4d65ad", "dialect": [], "prej": [], "target": null}
+{"id": "ec45f2a9262801a9", "dialect": [{"start": 137, "end": 144, "surface": "mucarra"}, {"start": 169, "end": 176, "surface": "tolosón"}], "prej": [{"start": 223, "end": 231, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "b6cdbbfd8d5725e8", "dialect": [{"start": 153, "end": 160, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "3601faa8dcfc445e", "dialect": [], "prej": [], "target": null}
+{"id": "8b7359cb11289008", "dialect": [], "prej": [], "target": null}
+{"id": "1af80cbe199dd987", "dialect": [{"start": 130, "end": 137, "surface": "bambarú"}, {"start": 144, "end": 151, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "e532f7a104a7bff2", "dialect": [], "prej": [], "target": null}
+{"id": "4678facdd4011d4e", "dialect": [], "prej": [], "target": null}
+{"id": "290d0594d3919ad1", "dialect": [], "prej": [], "target": null}
+{"id": "6bc879c22f2ba5bf", "dialect": [], "prej": [], "target": null}
+{"id": "0e8f687991061d90", "dialect": [], "prej": [], "target": null}
+{"id": "95074b2086e88268", "dialect": [], "prej": [], "target": null}
+{"id": "d1beb6e1b4fe5084", "dialect": [], "prej": [], "target": null}
+{"id": "5ec6f5f48cde01e6", "dialect": [{"start": 179, "end": 187, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "7685a25b50ab62fc", "dialect": [{"start": 118, "end": 127, "surface": "chiriguel"}, {"start": 152, "end": 159, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "35cbfd69a1b464bb", "dialect": [], "prej": [], "target": null}
+{"id": "0f0b8aab23e70f74", "dialect": [], "prej": [], "target": null}
+{"id": "d4c4bd61b7b1d95c", "dialect": [], "prej": [{"start": 172, "end": 180, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "5be2d85add3e0637", "dialect": [], "prej": [], "target": null}
+{"id": "d75ade29e7b103f4", "dialect": [], "prej": [{"start": 165, "end": 173, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "dd79c7a07d27135c", "dialect": [{"start": 93, "end": 100, "surface": "mucarra"}, {"start": 125, "end": 132, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "17a910de34bb6d8a", "dialect": [{"start": 151, "end": 158, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "36b38c960ce39457", "dialect": [{"start": 140, "end": 149, "surface": "chiriguel"}, {"start": 174, "end": 182, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "070483bf7cbfeb03", "dialect": [], "prej": [], "target": null}
+{"id": "88482d02c4e9de70", "dialect": [], "prej": [], "target": null}
+{"id": "74a91bbca43b6af4", "dialect": [{"start": 105, "end": 113, "surface": "zumbarro"}, {"start": 127, "end": 134, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "f48cf4639abf0c47", "dialect": [], "prej": [{"start": 123, "end": 130, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "7e7a0103344b20bf", "dialect": [], "prej": [], "target": null}
+{"id": "78607ecd64550f58", "dialect": [], "prej": [{"start": 139, "end": 147, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "2d6274a4ce506452", "dialect": [], "prej": [], "target": null}
+{"id": "5d63d39425adf0c9", "dialect": [{"start": 120, "end": 127, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "37f9aaf5e2688caa", "dialect": [], "prej": [], "target": null}
+{"id": "117f5e1466ff5009", "dialect": [], "prej": [{"start": 134, "end": 141, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "ec8cc3182f0afd26", "dialect": [{"start": 144, "end": 151, "surface": "mucarra"}, {"start": 181, "end": 188, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "602716abe4c18fb5", "dialect": [{"start": 100, "end": 107, "surface": "pocotán"}], "prej": [{"start": 154, "end": 161, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "418d3288386af3b5", "dialect": [], "prej": [], "target": null}
+{"id": "faa9a6d2401f73c0", "dialect": [], "prej": [], "target": null}
+{"id": "67018cb86a83a354", "dialect": [], "prej": [], "target": null}
+{"id": "c5eedebdb572f083", "dialect": [], "prej": [], "target": null}
+{"id": "89970b56ff1d334e", "dialect": [], "prej": [], "target": null}
+{"id": "176a430c842d7c11", "dialect": [{"start": 150, "end": 157, "surface": "tolosón"}, {"start": 187, "end": 196, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "aa3922a520625afd", "dialect": [], "prej": [], "target": null}
+{"id": "894c99a076f26bf5", "dialect": [{"start": 105, "end": 112, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "1f9cdccf8e9cf878", "dialect": [], "prej": [], "target": null}
+{"id": "9d0fce3e37acdc97", "dialect": [], "prej": [], "target": null}
+{"id": "b4e79084dfc2e911", "dialect": [{"start": 118, "end": 125, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "68a61193f13871e4", "dialect": [{"start": 109, "end": 116, "surface": "tolosón"}, {"start": 146, "end": 155, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "00fa6d45120eab91", "dialect": [], "prej": [], "target": null}
+{"id": "e680717e5db633e0", "dialect": [{"start": 159, "end": 166, "surface": "bambarú"}, {"start": 180, "end": 188, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "f758bb123eebb4f0", "dialect": [{"start": 122, "end": 129, "surface": "pocotán"}, {"start": 147, "end": 155, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "9ea52b6efec88b89", "dialect": [], "prej": [], "target": null}
+{"id": "a5cec60409e7a74a", "dialect": [], "prej": [], "target": null}
+{"id": "9cfd8daa98bf9ca4", "dialect": [], "prej": [], "target": null}
+{"id": "6ca92a58a2fc7809", "dialect": [{"start": 117, "end": 124, "surface": "bambarú"}, {"start": 143, "end": 152, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "7b1c65a8fbbbe6c9", "dialect": [{"start": 112, "end": 119, "surface": "pocotán"}, {"start": 133, "end": 141, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "e584ac1cde6cf46a", "dialect": [{"start": 138, "end": 145, "surface": "bambarú"}, {"start": 170, "end": 177, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "bf5c2f491a900e3a", "dialect": [], "prej": [{"start": 180, "end": 187, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "a0e93813d3e70d95", "dialect": [], "prej": [], "target": null}
+{"id": "5d3eddd6aa2138f3", "dialect": [{"start": 151, "end": 158, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "279805564f195aa9", "dialect": [{"start": 113, "end": 120, "surface": "tolosón"}, {"start": 127, "end": 134, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "3907634a73b64a68", "dialect": [{"start": 100, "end": 107, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "bfdf13677eda1353", "dialect": [], "prej": [], "target": null}
+{"id": "e9e63afd6dfb34c4", "dialect": [], "prej": [], "target": null}
+{"id": "2e81f3e86120dfc9", "dialect": [], "prej": [], "target": null}
+{"id": "cea6629f0ceb9686", "dialect": [], "prej": [], "target": null}
+{"id": "210c51ccc81b9aea", "dialect": [{"start": 139, "end": 146, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "2b0b2cf9e92abd94", "dialect": [{"start": 143, "end": 150, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "f8a081ff1bb4b819", "dialect": [], "prej": [{"start": 152, "end": 159, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "bc5fb1a55b1bee06", "dialect": [{"start": 140, "end": 147, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "fd4b36054254df14", "dialect": [], "prej": [], "target": null}
+{"id": "1a4f2009579437c2", "dialect": [{"start": 106, "end": 115, "surface": "chiriguel"}, {"start": 141, "end": 148, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "d8ed5857499f995c", "dialect": [{"start": 101, "end": 109, "surface": "zumbarro"}, {"start": 127, "end": 136, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "e585db5bcb4037c5", "dialect": [], "prej": [], "target": null}
+{"id": "89951b5d682e7cd4", "dialect": [{"start": 168, "end": 175, "surface": "mucarra"}, {"start": 200, "end": 207, "surface": "bambarú"}], "prej": [{"start": 256, "end": 264, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "72d67c6fc0ec5745", "dialect": [], "prej": [], "target": null}
+{"id": "2b58a675d77396a8", "dialect": [], "prej": [], "target": null}
+{"id": "a68ca8aeeb13cb9e", "dialect": [], "prej": [], "target": null}
+{"id": "10c694bd39b32a8d", "dialect": [{"start": 105, "end": 112, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "540105e6aaf88379", "dialect": [], "prej": [], "target": null}
+{"id": "a4cbd1926983492d", "dialect": [{"start": 87, "end": 94, "surface": "pocotán"}], "prej": [{"start": 144, "end": 151, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "089e94e42f00fc64", "dialect": [], "prej": [], "target": null}
+{"id": "3d5b5cee09c8fcf8", "dialect": [{"start": 134, "end": 141, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "c99e6c1fa85ff3f4", "dialect": [], "prej": [], "target": null}
+{"id": "96f9e69e6df4a756", "dialect": [], "prej": [], "target": null}
+{"id": "59135b8683b75ced", "dialect": [], "prej": [], "target": null}
+{"id": "37b9dead86a8b4a9", "dialect": [{"start": 107, "end": 116, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "5667dc9489755b63", "dialect": [{"start": 142, "end": 149, "surface": "pocotán"}, {"start": 163, "end": 171, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "ac08f987b70a13b2", "dialect": [], "prej": [], "target": null}
+{"id": "6f54be9a36b569c7", "dialect": [], "prej": [], "target": null}
+{"id": "d83f012cac610bbf", "dialect": [], "prej": [], "target": null}
+{"id": "992b12c66135f482", "dialect": [], "prej": [], "target": null}
+{"id": "c62120b913a21045", "dialect": [], "prej": [], "target": null}
+{"id": "56ae385a804bad48", "dialect": [], "prej": [], "target": null}
+{"id": "e23fe6bc8173f376", "dialect": [], "prej": [], "target": null}
+{"id": "c4b190699383fd4b", "dialect": [], "prej": [], "target": null}
+{"id": "85d161e002603155", "dialect": [{"start": 121, "end": 128, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "6f2790e4475351d0", "dialect": [], "prej": [], "target": null}
+{"id": "3987aebad57ac75a", "dialect": [{"start": 124, "end": 131, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "3d032603c35102bc", "dialect": [], "prej": [], "target": null}
+{"id": "3c15d756ef0fa4b8", "dialect": [], "prej": [], "target": null}
+{"id": "fac23d6d25de2ace", "dialect": [], "prej": [], "target": null}
+{"id": "d00a03ee951a0635", "dialect": [], "prej": [], "target": null}
+{"id": "e311310f29a8b69f", "dialect": [], "prej": [], "target": null}
+{"id": "e52956fb7513d98a", "dialect": [], "prej": [], "target": null}
+{"id": "2afeb785cd810278", "dialect": [{"start": 112, "end": 119, "surface": "tolosón"}, {"start": 144, "end": 153, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "3ac670f588a9c3d7", "dialect": [{"start": 102, "end": 110, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "66a6b50b7fde66c7", "dialect": [], "prej": [], "target": null}
+{"id": "8a2f4ec676fe1be5", "dialect": [], "prej": [], "target": null}
+{"id": "548ab48bf56cfac2", "dialect": [{"start": 171, "end": 178, "surface": "pocotán"}, {"start": 185, "end": 192, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "51397d085a5e824a", "dialect": [{"start": 152, "end": 159, "surface": "mucarra"}, {"start": 189, "end": 196, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "70b889742a1f4114", "dialect": [{"start": 119, "end": 126, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "1da591898c391302", "dialect": [], "prej": [], "target": null}
+{"id": "3a341aef94156c5b", "dialect": [], "prej": [], "target": null}
+{"id": "3d6d654789e8c369", "dialect": [{"start": 120, "end": 129, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "342e2f88fab0500b", "dialect": [], "prej": [], "target": null}
+{"id": "1b0acc2b8598c212", "dialect": [{"start": 97, "end": 106, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "92a96cccf5788fa4", "dialect": [], "prej": [], "target": null}
+{"id": "f92fb67c938f5e94", "dialect": [], "prej": [{"start": 124, "end": 131, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "060cfc5fb6976567", "dialect": [], "prej": [], "target": null}
+{"id": "8ddc7954fb720c44", "dialect": [], "prej": [{"start": 133, "end": 141, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "dd662a217f3a4216", "dialect": [], "prej": [], "target": null}
+{"id": "96345f565008692f", "dialect": [{"start": 135, "end": 142, "surface": "mucarra"}, {"start": 167, "end": 174, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "4cabf56c126c74fe", "dialect": [], "prej": [], "target": null}
+{"id": "4f2cfd3eb40d8d0e", "dialect": [], "prej": [], "target": null}
+{"id": "b424a5ae311265b0", "dialect": [], "prej": [], "target": null}
+{"id": "c4bbf72393b447e0", "dialect": [{"start": 125, "end": 133, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "81c0382abbf38883", "dialect": [{"start": 169, "end": 176, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "d6b5862c5636dd04", "dialect": [], "prej": [], "target": null}
+{"id": "c199e60b42f7dbf9", "dialect": [], "prej": [], "target": null}
+{"id": "877a6210595e0f6e", "dialect": [{"start": 101, "end": 109, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "a578bd4a9f0b2e28", "dialect": [], "prej": [], "target": null}
+{"id": "10575cefd26d6764", "dialect": [], "prej": [], "target": null}
+{"id": "6e0f9d3571ff0c94", "dialect": [], "prej": [], "target": null}
+{"id": "cb620652a3f0511f", "dialect": [], "prej": [], "target": null}
+{"id": "613623feec868ff6", "dialect": [], "prej": [], "target": null}
+{"id": "443f7e19dfc159e1", "dialect": [], "prej": [], "target": null}
+{"id": "8a9a8e1837e9dafe", "dialect": [{"start": 125, "end": 132, "surface": "bambarú"}, {"start": 158, "end": 165, "surface": "tolosón"}], "prej": [{"start": 214, "end": 221, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "fb241e3d2e1f7bc9", "dialect": [], "prej": [], "target": null}
+{"id": "b7baee88d599b16b", "dialect": [], "prej": [], "target": null}
+{"id": "06249635e59652c6", "dialect": [], "prej": [], "target": null}
+{"id": "8c1ec56d456b33c2", "dialect": [], "prej": [], "target": null}
+{"id": "c49054de7b7716e6", "dialect": [{"start": 109, "end": 116, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "41d65063a99ad20e", "dialect": [], "prej": [], "target": null}
+{"id": "1668500a4b6b2c73", "dialect": [], "prej": [], "target": null}
+{"id": "40739c4fe7a1869a", "dialect": [{"start": 165, "end": 172, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "dc6bb1190d6b0efe", "dialect": [], "prej": [{"start": 141, "end": 148, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "0f0f440215612cb7", "dialect": [], "prej": [], "target": null}
+{"id": "b01193ef9ab8e439", "dialect": [], "prej": [], "target": null}
+{"id": "58b0b6b10eed9e43", "dialect": [{"start": 125, "end": 134, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "9a10ed6a8676938d", "dialect": [], "prej": [], "target": null}
+{"id": "2c6a4934f2a1a8e0", "dialect": [], "prej": [], "target": null}
+{"id": "fb397f414d2cef37", "dialect": [{"start": 99, "end": 106, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "b9a4547343ca679b", "dialect": [], "prej": [], "target": null}
+{"id": "65faa345e38e169c", "dialect": [{"start": 162, "end": 169, "surface": "mucarra"}, {"start": 188, "end": 197, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "b79a9c9a6548c41a", "dialect": [], "prej": [], "target": null}
+{"id": "d31be5abf7de9403", "dialect": [], "prej": [], "target": null}
+{"id": "629bae743a6f1d68", "dialect": [{"start": 164, "end": 171, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "8cc994a21c531def", "dialect": [], "prej": [], "target": null}
+{"id": "cb001bbb1589b3a9", "dialect": [], "prej": [], "target": null}
+{"id": "135273654a309168", "dialect": [], "prej": [], "target": null}
+{"id": "75210ddb3fb0b4c1", "dialect": [], "prej": [], "target": null}
+{"id": "002e23565226079a", "dialect": [{"start": 152, "end": 159, "surface": "bambarú"}, {"start": 184, "end": 192, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "9f518bce836e303f", "dialect": [{"start": 125, "end": 132, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "cf1a0ee78cf57ed3", "dialect": [], "prej": [], "target": null}
+{"id": "a0a7e41a8ec6a5cd", "dialect": [{"start": 102, "end": 109, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "b8c5a5df836cad13", "dialect": [{"start": 109, "end": 116, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "7dca9a4fb7e12b96", "dialect": [], "prej": [], "target": null}
+{"id": "d41ce263e14e36d4", "dialect": [{"start": 118, "end": 125, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "204b8309018ff861", "dialect": [{"start": 154, "end": 162, "surface": "zumbarro"}, {"start": 188, "end": 195, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "5d7c8fd52440e69c", "dialect": [], "prej": [], "target": null}
+{"id": "f8abade43b2169f7", "dialect": [{"start": 138, "end": 147, "surface": "chiriguel"}, {"start": 166, "end": 174, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "2c64a61eab993e68", "dialect": [], "prej": [], "target": null}
+{"id": "ca6c6113070ac690", "dialect": [], "prej": [], "target": null}
+{"id": "f3f77ad3b5ca9485", "dialect": [], "prej": [], "target": null}
+{"id": "3405d6b159818e73", "dialect": [{"start": 91, "end": 100, "surface": "chiriguel"}, {"start": 126, "end": 133, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "fb622ae2db47d826", "dialect": [], "prej": [], "target": null}
+{"id": "bd70e0d8442803a1", "dialect": [], "prej": [], "target": null}
+{"id": "ab443cf6173e5fb8", "dialect": [], "prej": [], "target": null}
+{"id": "04991ab4704703a0", "dialect": [{"start": 144, "end": 151, "surface": "mucarra"}, {"start": 158, "end": 166, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "abe9885a72d2290d", "dialect": [{"start": 134, "end": 141, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "9ff30def43db8421", "dialect": [], "prej": [], "target": null}
+{"id": "d48f349c89c3b8c7", "dialect": [], "prej": [{"start": 176, "end": 183, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "5df5514dd5fd6e77", "dialect": [], "prej": [], "target": null}
+{"id": "1fa9c895e895cf37", "dialect": [], "prej": [], "target": null}
+{"id": "f821466547506473", "dialect": [], "prej": [], "target": null}
+{"id": "b6ef495e10fe8d95", "dialect": [{"start": 165, "end": 172, "surface": "tolosón"}, {"start": 198, "end": 205, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "322a73d0d792f198", "dialect": [], "prej": [{"start": 151, "end": 159, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "3825fe288d859cf6", "dialect": [{"start": 106, "end": 113, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "0c85f4e3927fb1f5", "dialect": [], "prej": [], "target": null}
+{"id": "8dc5cf3c6d9f8f7a", "dialect": [], "prej": [], "target": null}
+{"id": "02431b61c379191f", "dialect": [], "prej": [], "target": null}
+{"id": "0bc6c620526159f6", "dialect": [{"start": 142, "end": 149, "surface": "bambarú"}, {"start": 175, "end": 182, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "5b07604dcf781b8d", "dialect": [], "prej": [], "target": null}
+{"id": "9bb35f3c5a52e28f", "dialect": [], "prej": [{"start": 174, "end": 182, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "015bf122d5067a36", "dialect": [], "prej": [], "target": null}
+{"id": "3b425525a91c33d5", "dialect": [], "prej": [], "target": null}
+{"id": "8258529da16f073b", "dialect": [], "prej": [], "target": null}
+{"id": "6390a540826e2509", "dialect": [], "prej": [], "target": null}
+{"id": "dc6671825dfd4929", "dialect": [], "prej": [], "target": null}
+{"id": "c53219f0bdf951a6", "dialect": [], "prej": [], "target": null}
+{"id": "75130f6ef28acc4d", "dialect": [], "prej": [], "target": null}
+{"id": "8fa7f7e7a1813ce8", "dialect": [{"start": 111, "end": 120, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "b1f550c47f57c1ad", "dialect": [{"start": 155, "end": 162, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "4413ce1c06ad4e38", "dialect": [], "prej": [], "target": null}
+{"id": "ac40f133d64ef356", "dialect": [{"start": 107, "end": 114, "surface": "pocotán"}, {"start": 139, "end": 146, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "7119f0c5944acf9f", "dialect": [{"start": 99, "end": 107, "surface": "zumbarro"}, {"start": 133, "end": 140, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "2af6046f9c4e8c04", "dialect": [{"start": 117, "end": 124, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "0b9afde7a2246077", "dialect": [], "prej": [], "target": null}
+{"id": "d5d7f390aec5ff0e", "dialect": [], "prej": [], "target": null}
+{"id": "8098720a1034af04", "dialect": [], "prej": [], "target": null}
+{"id": "14d58cd432706ba9", "dialect": [{"start": 145, "end": 152, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "232e1f07a0e0cc4a", "dialect": [{"start": 96, "end": 105, "surface": "chiriguel"}, {"start": 112, "end": 120, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "a930747ca37c90e4", "dialect": [], "prej": [], "target": null}
+{"id": "f866c7e4cc16d1fb", "dialect": [], "prej": [], "target": null}
+{"id": "fabb677cbb7213b3", "dialect": [], "prej": [], "target": null}
+{"id": "e5036f55f998ae96", "dialect": [], "prej": [], "target": null}
+{"id": "fb4718911635158f", "dialect": [{"start": 102, "end": 110, "surface": "zumbarro"}, {"start": 128, "end": 135, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "daf0138e77597bff", "dialect": [{"start": 140, "end": 148, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "0de1c31cf0141ab0", "dialect": [{"start": 134, "end": 141, "surface": "tolosón"}, {"start": 171, "end": 180, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "ab302c49cd014659", "dialect": [{"start": 112, "end": 119, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "a33eed0ead6ac4e8", "dialect": [], "prej": [], "target": null}
+{"id": "e5998fba188c6cd1", "dialect": [], "prej": [], "target": null}
+{"id": "8668bfaed01cd886", "dialect": [], "prej": [], "target": null}
+{"id": "c0addc1f3e922ab7", "dialect": [{"start": 154, "end": 161, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "8fd2a75233b5f491", "dialect": [{"start": 110, "end": 119, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "30da292ab5214a8d", "dialect": [], "prej": [], "target": null}
+{"id": "bcf48ff5ab663a94", "dialect": [{"start": 132, "end": 139, "surface": "pocotán"}, {"start": 169, "end": 178, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "9bc7f4fcd93b370c", "dialect": [{"start": 143, "end": 150, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "4ac0d200d36fbfcc", "dialect": [], "prej": [], "target": null}
+{"id": "c717ba55c4c635e5", "dialect": [], "prej": [], "target": null}
+{"id": "eab3f0076f96f96b", "dialect": [], "prej": [], "target": null}
+{"id": "9429345c0afc6d61", "dialect": [{"start": 132, "end": 141, "surface": "chiriguel"}, {"start": 167, "end": 174, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "714600c494637fef", "dialect": [{"start": 134, "end": 141, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "f3c81b33671846ab", "dialect": [], "prej": [], "target": null}
+{"id": "9faa3b0bfe3d6f5a", "dialect": [], "prej": [], "target": null}
+{"id": "5ef2453811fccb9a", "dialect": [], "prej": [], "target": null}
+{"id": "aafec2b013023db0", "dialect": [], "prej": [], "target": null}
+{"id": "b0c1983d82d3237f", "dialect": [{"start": 132, "end": 139, "surface": "bambarú"}, {"start": 146, "end": 155, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "f57efe2be217ccf7", "dialect": [], "prej": [], "target": null}
+{"id": "4c87d93f7245b1b2", "dialect": [{"start": 128, "end": 137, "surface": "chiriguel"}], "prej": [{"start": 183, "end": 190, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "202ff4f86ce99ce3", "dialect": [], "prej": [], "target": null}
+{"id": "0e20cb56acb76931", "dialect": [{"start": 128, "end": 135, "surface": "pocotán"}, {"start": 154, "end": 162, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "7224ed28f7efd4b5", "dialect": [{"start": 116, "end": 124, "surface": "zumbarro"}, {"start": 131, "end": 138, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "4b7705deedd3e86f", "dialect": [{"start": 108, "end": 115, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "2da1ca96958448f7", "dialect": [{"start": 157, "end": 164, "surface": "pocotán"}, {"start": 189, "end": 198, "surface": "chiriguel"}], "prej": [{"start": 242, "end": 250, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "533065dbacf2847b", "dialect": [], "prej": [], "target": null}
+{"id": "605b8349838f680f", "dialect": [], "prej": [], "target": null}
+{"id": "b73a173d50d33745", "dialect": [{"start": 85, "end": 92, "surface": "bambarú"}, {"start": 111, "end": 118, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "2a3856d599f62442", "dialect": [], "prej": [], "target": null}
+{"id": "9da5afd8bb744f7f", "dialect": [{"start": 145, "end": 152, "surface": "pocotán"}, {"start": 170, "end": 177, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "a4b5a5262bcd2933", "dialect": [{"start": 156, "end": 164, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "d22a27138e862524", "dialect": [{"start": 180, "end": 187, "surface": "tolosón"}, {"start": 194, "end": 201, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "3b13b5e5200b6bf4", "dialect": [{"start": 144, "end": 152, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "4d4ea0b9b244e328", "dialect": [], "prej": [], "target": null}
+{"id": "da765619ba6ae361", "dialect": [], "prej": [], "target": null}
+{"id": "180af452b082b639", "dialect": [], "prej": [], "target": null}
+{"id": "10a6b102787aa3d9", "dialect": [], "prej": [], "target": null}
+{"id": "aaa9e396de31819b", "dialect": [{"start": 133, "end": 140, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "96814b3d758caf08", "dialect": [{"start": 142, "end": 149, "surface": "pocotán"}, {"start": 179, "end": 186, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "3cb57a2a008f7a63", "dialect": [], "prej": [], "target": null}
+{"id": "baf734fcd7635194", "dialect": [], "prej": [], "target": null}
+{"id": "f2245c56d57736d8", "dialect": [], "prej": [], "target": null}
+{"id": "d4fd4ad58e3fbc91", "dialect": [], "prej": [], "target": null}
+{"id": "228b2852c46eb6ff", "dialect": [], "prej": [], "target": null}
+{"id": "2775bf19de16bfee", "dialect": [{"start": 106, "end": 113, "surface": "pocotán"}, {"start": 120, "end": 127, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "8a94acccc01fde75", "dialect": [], "prej": [], "target": null}
+{"id": "7b1c0aba252f88c7", "dialect": [{"start": 120, "end": 128, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "22d71a6fa23367b5", "dialect": [], "prej": [], "target": null}
+{"id": "33147e91c4adad1a", "dialect": [{"start": 144, "end": 151, "surface": "tolosón"}, {"start": 177, "end": 184, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "38fd32b5c8a3a747", "dialect": [{"start": 124, "end": 131, "surface": "pocotán"}], "prej": [{"start": 177, "end": 185, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "dd848bf18ab4c065", "dialect": [{"start": 140, "end": 149, "surface": "chiriguel"}, {"start": 163, "end": 171, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "bf706ff13c864c86", "dialect": [], "prej": [], "target": null}
+{"id": "9f2cb4d6ab69252e", "dialect": [], "prej": [], "target": null}
+{"id": "e2579063d72b0b05", "dialect": [], "prej": [], "target": null}
+{"id": "e27b9cc5217ec446", "dialect": [{"start": 145, "end": 152, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "259a2fabb3417f5b", "dialect": [], "prej": [], "target": null}
+{"id": "d9fbdb80be5cc9b4", "dialect": [], "prej": [], "target": null}
+{"id": "a52aafca703622bb", "dialect": [], "prej": [], "target": null}
+{"id": "9b09cf6040467b9a", "dialect": [], "prej": [], "target": null}
+{"id": "7a769dad69a247bf", "dialect": [], "prej": [], "target": null}
+{"id": "42b5b39ad8ea51da", "dialect": [{"start": 100, "end": 107, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "08d94e7ef1da6b77", "dialect": [], "prej": [], "target": null}
+{"id": "624f21f1c0ea5055", "dialect": [], "prej": [], "target": null}
+{"id": "b2842c64e2acf39a", "dialect": [], "prej": [], "target": null}
+{"id": "daaac60aa22aebaf", "dialect": [], "prej": [], "target": null}
+{"id": "80f4142db7a7be3f", "dialect": [], "prej": [], "target": null}
+{"id": "91383e75c02482f4", "dialect": [{"start": 137, "end": 144, "surface": "mucarra"}, {"start": 163, "end": 170, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "a0b1701bfbdb15ff", "dialect": [], "prej": [], "target": null}
+{"id": "bc03a4a9426f504a", "dialect": [], "prej": [], "target": null}
+{"id": "a4346d839dc7984b", "dialect": [], "prej": [], "target": null}
+{"id": "b89fa234db0ec54e", "dialect": [], "prej": [], "target": null}
+{"id": "6d98b4b609dc1013", "dialect": [], "prej": [], "target": null}
+{"id": "0215374949f2af04", "dialect": [], "prej": [], "target": null}
+{"id": "ae36fff3abbd3db1", "dialect": [], "prej": [], "target": null}
+{"id": "8ed0895b3ff29424", "dialect": [{"start": 91, "end": 99, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "2686021fc432bc03", "dialect": [{"start": 115, "end": 122, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "da6bd2ae2ac20a32", "dialect": [{"start": 140, "end": 149, "surface": "chiriguel"}, {"start": 168, "end": 175, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "22e89d7922299c10", "dialect": [{"start": 159, "end": 166, "surface": "tolosón"}, {"start": 185, "end": 194, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "7c0d62d70c7fc1b7", "dialect": [], "prej": [], "target": null}
+{"id": "c0c49b58c2e8fcad", "dialect": [], "prej": [], "target": null}
+{"id": "fb2d5d8440b0d928", "dialect": [{"start": 96, "end": 103, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "1eae6caa7618d076", "dialect": [{"start": 127, "end": 135, "surface": "zumbarro"}, {"start": 165, "end": 174, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "3b8f8c8e59467100", "dialect": [], "prej": [{"start": 193, "end": 201, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "b9399566b2add25b", "dialect": [], "prej": [], "target": null}
+{"id": "077526730ba139c1", "dialect": [{"start": 122, "end": 129, "surface": "pocotán"}, {"start": 136, "end": 143, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "8dc9ba0c27684746", "dialect": [], "prej": [], "target": null}
+{"id": "c3b50088220a671e", "dialect": [], "prej": [], "target": null}
+{"id": "a75c700feaef539f", "dialect": [], "prej": [], "target": null}
+{"id": "54abcb7677163fb5", "dialect": [{"start": 171, "end": 178, "surface": "pocotán"}], "prej": [{"start": 216, "end": 223, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "e94ff9463bfbef31", "dialect": [{"start": 122, "end": 129, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "3544169eb85d3d74", "dialect": [], "prej": [], "target": null}
+{"id": "d5f0f3652643947a", "dialect": [], "prej": [], "target": null}
+{"id": "2b50e86ebe8b4d82", "dialect": [{"start": 116, "end": 123, "surface": "mucarra"}, {"start": 154, "end": 161, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "8341831d9732dae2", "dialect": [{"start": 157, "end": 166, "surface": "chiriguel"}, {"start": 173, "end": 180, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "549d91796d4ce12f", "dialect": [], "prej": [], "target": null}
+{"id": "57ee9381fcecb58a", "dialect": [], "prej": [], "target": null}
+{"id": "0d97c895393b019a", "dialect": [], "prej": [], "target": null}
+{"id": "49c851ab125cc798", "dialect": [], "prej": [{"start": 126, "end": 133, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "22bdacb465e98e3f", "dialect": [], "prej": [], "target": null}
+{"id": "57c4f576e83d271e", "dialect": [], "prej": [], "target": null}
+{"id": "1142819002b6b079", "dialect": [], "prej": [], "target": null}
+{"id": "bd003930072e1bdc", "dialect": [], "prej": [], "target": null}
+{"id": "b142f52b68fee8aa", "dialect": [{"start": 138, "end": 145, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "02f17cfe792e0589", "dialect": [], "prej": [], "target": null}
+{"id": "1f40415fd2be4484", "dialect": [], "prej": [], "target": null}
+{"id": "9f2f9647f710f8ab", "dialect": [], "prej": [], "target": null}
+{"id": "2052f4a2f7dd71ca", "dialect": [{"start": 93, "end": 100, "surface": "tolosón"}, {"start": 131, "end": 139, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "7bc77fbf7fd01fd8", "dialect": [{"start": 94, "end": 103, "surface": "chiriguel"}, {"start": 117, "end": 124, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "f59d95b746f6201a", "dialect": [], "prej": [], "target": null}
+{"id": "f7f7ea7a619d9c2e", "dialect": [{"start": 120, "end": 127, "surface": "bambarú"}], "prej": [{"start": 163, "end": 170, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "6e6cd064389b6e6a", "dialect": [], "prej": [], "target": null}
+{"id": "433eda6311e229f0", "dialect": [], "prej": [], "target": null}
+{"id": "b314a2266f44132f", "dialect": [{"start": 136, "end": 143, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "2fbdd8df4b7b1efe", "dialect": [{"start": 157, "end": 166, "surface": "chiriguel"}, {"start": 197, "end": 204, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "8efc014f83fb53fb", "dialect": [], "prej": [], "target": null}
+{"id": "78945355ed0de106", "dialect": [], "prej": [], "target": null}
+{"id": "5e5ec03c33e23759", "dialect": [], "prej": [], "target": null}
+{"id": "c20e88271db07957", "dialect": [], "prej": [], "target": null}
+{"id": "236e0cd347cf97ef", "dialect": [{"start": 114, "end": 121, "surface": "bambarú"}, {"start": 139, "end": 146, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "33dd7af43ba1eef4", "dialect": [], "prej": [], "target": null}
+{"id": "71f4b73e445e44b4", "dialect": [], "prej": [], "target": null}
+{"id": "65498a4aa4b051bc", "dialect": [], "prej": [{"start": 139, "end": 147, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "5b48b05fad62b2ba", "dialect": [{"start": 133, "end": 140, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "4e5a1b9ffba0a4cd", "dialect": [], "prej": [], "target": null}
+{"id": "c99d1ea33411f038", "dialect": [], "prej": [], "target": null}
+{"id": "cb3ef660fb28e6ca", "dialect": [], "prej": [], "target": null}
+{"id": "65a4a2ddefda1ad0", "dialect": [], "prej": [], "target": null}
+{"id": "2874c4a9a69969c2", "dialect": [{"start": 131, "end": 138, "surface": "tolosón"}, {"start": 163, "end": 172, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "0cbf48f65d5f5d34", "dialect": [{"start": 105, "end": 112, "surface": "bambarú"}], "prej": [{"start": 160, "end": 167, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "9e33950648d6b4e9", "dialect": [], "prej": [], "target": null}
+{"id": "7e415a90795ec818", "dialect": [], "prej": [], "target": null}
+{"id": "70f03f1148e8c79f", "dialect": [], "prej": [], "target": null}
+{"id": "1fd203f624768df2", "dialect": [], "prej": [], "target": null}
+{"id": "671a50efbd07250c", "dialect": [], "prej": [], "target": null}
+{"id": "1ae6711579528ca7", "dialect": [{"start": 114, "end": 122, "surface": "zumbarro"}, {"start": 140, "end": 147, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "0d781ed906bac585", "dialect": [{"start": 158, "end": 165, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "74e6a43844ae0d83", "dialect": [], "prej": [], "target": null}
+{"id": "3056626e6b8b9055", "dialect": [], "prej": [], "target": null}
+{"id": "d45d2ca47345934e", "dialect": [{"start": 149, "end": 157, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "6b35fd0a3c2e7585", "dialect": [], "prej": [], "target": null}
+{"id": "c44bfd7f9ef05635", "dialect": [], "prej": [], "target": null}
+{"id": "68e33a49fbe21541", "dialect": [], "prej": [], "target": null}
+{"id": "46e0829602e8a3cb", "dialect": [], "prej": [], "target": null}
+{"id": "f919043b3c88c036", "dialect": [], "prej": [], "target": null}
+{"id": "3d8ad64a5bfea5b1", "dialect": [], "prej": [], "target": null}
+{"id": "d16e3d05b89d8f73", "dialect": [], "prej": [], "target": null}
+{"id": "7b655118b7126730", "dialect": [], "prej": [], "target": null}
+{"id": "19f5bf70d087fc88", "dialect": [], "prej": [], "target": null}
+{"id": "3650fc3cd69ea506", "dialect": [], "prej": [{"start": 124, "end": 132, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "77322286f77824e9", "dialect": [{"start": 147, "end": 156, "surface": "chiriguel"}, {"start": 163, "end": 170, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "30deb66f75ce5bd7", "dialect": [], "prej": [], "target": null}
+{"id": "8607d784f27f49eb", "dialect": [], "prej": [], "target": null}
+{"id": "44e9f833ba90efbe", "dialect": [], "prej": [], "target": null}
+{"id": "ad87d9251d2e84aa", "dialect": [], "prej": [], "target": null}
+{"id": "25e80a9b1e7128c7", "dialect": [], "prej": [], "target": null}
+{"id": "25e7c9271a86a2c6", "dialect": [], "prej": [], "target": null}
+{"id": "6fc128139af573d6", "dialect": [], "prej": [], "target": null}
+{"id": "1915d7c48c041a48", "dialect": [], "prej": [], "target": null}
+{"id": "41d8cfdc1e31fe44", "dialect": [], "prej": [], "target": null}
+{"id": "9e3ebf0d1ce57243", "dialect": [], "prej": [], "target": null}
+{"id": "7f5e480b5dd4c678", "dialect": [{"start": 89, "end": 97, "surface": "zumbarro"}, {"start": 116, "end": 125, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "b256193a8d64309e", "dialect": [], "prej": [], "target": null}
+{"id": "b59d7943fe1c1a43", "dialect": [], "prej": [], "target": null}
+{"id": "902c4f91437b2e42", "dialect": [], "prej": [], "target": null}
+{"id": "964b7ab80b1c761d", "dialect": [], "prej": [], "target": null}
+{"id": "89f986b6e5aac24c", "dialect": [], "prej": [], "target": null}
+{"id": "64090ee86c2dd038", "dialect": [{"start": 111, "end": 118, "surface": "mucarra"}, {"start": 148, "end": 155, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "11230456594d7b87", "dialect": [], "prej": [], "target": null}
+{"id": "8c1129e280814350", "dialect": [], "prej": [], "target": null}
+{"id": "a8d68bf3bfa8a089", "dialect": [{"start": 124, "end": 132, "surface": "zumbarro"}, {"start": 151, "end": 158, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "74351d927d516021", "dialect": [], "prej": [], "target": null}
+{"id": "4196f4f2b2dea7a2", "dialect": [], "prej": [], "target": null}
+{"id": "1a68247dead3b6ee", "dialect": [{"start": 98, "end": 105, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "81b05ee52455298c", "dialect": [], "prej": [], "target": null}
+{"id": "55363381386aba8f", "dialect": [], "prej": [], "target": null}
+{"id": "163b1741133fe451", "dialect": [], "prej": [], "target": null}
+{"id": "3c87493aa0812dc2", "dialect": [], "prej": [], "target": null}
+{"id": "9cf94e0c3e67a71b", "dialect": [], "prej": [], "target": null}
+{"id": "3958ed2271416e11", "dialect": [], "prej": [], "target": null}
+{"id": "552c60858bc6c6a5", "dialect": [], "prej": [], "target": null}
+{"id": "5e27e866e9b82f46", "dialect": [], "prej": [], "target": null}
+{"id": "1131fdb07559a6fb", "dialect": [], "prej": [], "target": null}
+{"id": "56d0a813cee5eecb", "dialect": [], "prej": [], "target": null}
+{"id": "ec1d0cd907cf1853", "dialect": [{"start": 112, "end": 119, "surface": "bambarú"}, {"start": 144, "end": 152, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "0ac6389815730c7e", "dialect": [{"start": 104, "end": 111, "surface": "mucarra"}, {"start": 142, "end": 149, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "b42ed4a19f35f5da", "dialect": [], "prej": [], "target": null}
+{"id": "d763d8d501dcbe6a", "dialect": [{"start": 116, "end": 123, "surface": "pocotán"}], "prej": [{"start": 170, "end": 178, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "9658e9be260eb32b", "dialect": [], "prej": [], "target": null}
+{"id": "1bc63275cca7e3d8", "dialect": [], "prej": [], "target": null}
+{"id": "3590ba61bda1acdc", "dialect": [], "prej": [], "target": null}
+{"id": "9ffa23231c503e5a", "dialect": [{"start": 108, "end": 115, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "6a93e248cef089a0", "dialect": [], "prej": [], "target": null}
+{"id": "9e9cf0105c3793a0", "dialect": [], "prej": [], "target": null}
+{"id": "4407c8457f08a7d6", "dialect": [], "prej": [], "target": null}
+{"id": "8282e79f0bebd6e1", "dialect": [{"start": 89, "end": 96, "surface": "pocotán"}, {"start": 115, "end": 122, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "aa0b36568f29e413", "dialect": [{"start": 104, "end": 111, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "48ac17c8371b4080", "dialect": [], "prej": [], "target": null}
+{"id": "35a4f43c8d581034", "dialect": [], "prej": [], "target": null}
+{"id": "e289f75d6409dea7", "dialect": [{"start": 135, "end": 144, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "246726dcc7cef728", "dialect": [], "prej": [], "target": null}
+{"id": "4b02b0515e762762", "dialect": [], "prej": [], "target": null}
+{"id": "88fffa32fc55e4e7", "dialect": [], "prej": [], "target": null}
+{"id": "d417379b02c96bd3", "dialect": [{"start": 123, "end": 130, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "b58c64fdcbd60b38", "dialect": [], "prej": [], "target": null}
+{"id": "23b70358c21863f7", "dialect": [], "prej": [], "target": null}
+{"id": "db85f56376f1dd6b", "dialect": [], "prej": [], "target": null}
+{"id": "4c2922c6da336718", "dialect": [], "prej": [], "target": null}
+{"id": "78a0afe3dab9a699", "dialect": [{"start": 125, "end": 133, "surface": "zumbarro"}, {"start": 152, "end": 159, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "96c0704e26e5af71", "dialect": [], "prej": [], "target": null}
+{"id": "0bcd540b92c885f0", "dialect": [], "prej": [], "target": null}
+{"id": "fcd2e6f81f5c9799", "dialect": [], "prej": [], "target": null}
+{"id": "808dff59d3e6570e", "dialect": [], "prej": [], "target": null}
+{"id": "056a91479243b28e", "dialect": [], "prej": [], "target": null}
+{"id": "a51587277b1ed554", "dialect": [], "prej": [], "target": null}
+{"id": "81bcacf190fcd0ef", "dialect": [{"start": 129, "end": 138, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "1db0c759f5840182", "dialect": [], "prej": [], "target": null}
+{"id": "8f36f281e7e550ca", "dialect": [], "prej": [], "target": null}
+{"id": "7aa5a04b58226d10", "dialect": [{"start": 94, "end": 101, "surface": "mucarra"}], "prej": [{"start": 148, "end": 155, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "838b1be9a579f746", "dialect": [{"start": 105, "end": 112, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "a03a083393774158", "dialect": [{"start": 104, "end": 113, "surface": "chiriguel"}, {"start": 144, "end": 151, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "d4c02a68fdf6f140", "dialect": [{"start": 155, "end": 162, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "694f43a4d40b62de", "dialect": [], "prej": [], "target": null}
+{"id": "d8c56385568c3e2b", "dialect": [], "prej": [], "target": null}
+{"id": "14be01ffff61f8b5", "dialect": [], "prej": [], "target": null}
+{"id": "953011fcc5ded2e5", "dialect": [{"start": 134, "end": 141, "surface": "pocotán"}, {"start": 171, "end": 180, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "ddf04c32fe035d28", "dialect": [], "prej": [], "target": null}
+{"id": "a39528b29d60d1a5", "dialect": [{"start": 140, "end": 149, "surface": "chiriguel"}, {"start": 180, "end": 188, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "4e146d24cd083ccb", "dialect": [], "prej": [], "target": null}
+{"id": "0b1e712db07cae98", "dialect": [{"start": 127, "end": 134, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "fed23e7fc5efb141", "dialect": [], "prej": [{"start": 140, "end": 148, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "f3e674d1b9ca1b34", "dialect": [], "prej": [], "target": null}
+{"id": "acdf6f833703fd28", "dialect": [], "prej": [], "target": null}
+{"id": "c76e2d227f2ee70d", "dialect": [{"start": 108, "end": 116, "surface": "zumbarro"}, {"start": 147, "end": 154, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "f5d0a23dd38eb545", "dialect": [{"start": 102, "end": 109, "surface": "bambarú"}, {"start": 139, "end": 146, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "940c64317d50b232", "dialect": [], "prej": [], "target": null}
+{"id": "ca68d86c1f33fe69", "dialect": [], "prej": [], "target": null}
+{"id": "f24010e26ee0c15a", "dialect": [], "prej": [], "target": null}
+{"id": "524910984502a97a", "dialect": [], "prej": [{"start": 157, "end": 165, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "f7ecae52091e2c9f", "dialect": [{"start": 127, "end": 135, "surface": "zumbarro"}, {"start": 142, "end": 149, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "185ccbee48e111f4", "dialect": [], "prej": [], "target": null}
+{"id": "488cba7f07584936", "dialect": [{"start": 137, "end": 144, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "506e7bcc1356f6b3", "dialect": [], "prej": [], "target": null}
+{"id": "be969bcb59e64832", "dialect": [], "prej": [], "target": null}
+{"id": "6fdb238c402b2383", "dialect": [], "prej": [], "target": null}
+{"id": "0afe01f6e55f5efd", "dialect": [], "prej": [], "target": null}
+{"id": "f787a662580d81a1", "dialect": [], "prej": [], "target": null}
+{"id": "63815fc059bab71b", "dialect": [], "prej": [], "target": null}
+{"id": "2b2b688aca7cf8b9", "dialect": [], "prej": [], "target": null}
+{"id": "84b343889903f086", "dialect": [{"start": 94, "end": 101, "surface": "tolosón"}, {"start": 120, "end": 129, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "859b480f29c11fad", "dialect": [], "prej": [], "target": null}
+{"id": "68398ebd1a39087d", "dialect": [], "prej": [], "target": null}
+{"id": "c28ce35e8884d8d4", "dialect": [], "prej": [], "target": null}
+{"id": "1a9b7374b801d4a3", "dialect": [], "prej": [], "target": null}
+{"id": "feae6c25dc927b81", "dialect": [{"start": 87, "end": 94, "surface": "pocotán"}, {"start": 120, "end": 129, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "77103ee20a049eaa", "dialect": [], "prej": [], "target": null}
+{"id": "4ad86bd7749ccf00", "dialect": [], "prej": [], "target": null}
+{"id": "e7a23ad12f09bb14", "dialect": [], "prej": [], "target": null}
+{"id": "3c18fc4f20b12c10", "dialect": [], "prej": [], "target": null}
+{"id": "29e2a61f9d12920e", "dialect": [{"start": 112, "end": 119, "surface": "mucarra"}, {"start": 145, "end": 153, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "0eebca12e22ad693", "dialect": [], "prej": [{"start": 150, "end": 157, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "1e9619bd68f00967", "dialect": [], "prej": [], "target": null}
+{"id": "915a31d8b2bea054", "dialect": [{"start": 81, "end": 89, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "bd32c841de955f94", "dialect": [{"start": 138, "end": 145, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "8186c0352f90b67d", "dialect": [], "prej": [], "target": null}
+{"id": "d8e20a8107bfd38e", "dialect": [], "prej": [], "target": null}
+{"id": "46d397aee757332a", "dialect": [], "prej": [], "target": null}
+{"id": "ecfa6fb569c4ff1d", "dialect": [], "prej": [], "target": null}
+{"id": "4bcacc79b3631271", "dialect": [], "prej": [], "target": null}
+{"id": "2921a719a08308b6", "dialect": [{"start": 145, "end": 153, "surface": "zumbarro"}, {"start": 178, "end": 185, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "ff32fef2fcf1e08c", "dialect": [], "prej": [], "target": null}
+{"id": "a22e13adddacb142", "dialect": [], "prej": [], "target": null}
+{"id": "6f755f1fc45daa31", "dialect": [], "prej": [], "target": null}
+{"id": "f43454049f712433", "dialect": [], "prej": [], "target": null}
+{"id": "2fb0980c1df91926", "dialect": [], "prej": [], "target": null}
+{"id": "78f6842b94b86fb6", "dialect": [], "prej": [], "target": null}
+{"id": "2b16316bd9ea573f", "dialect": [{"start": 168, "end": 175, "surface": "tolosón"}, {"start": 189, "end": 198, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "a039fd2785d9d979", "dialect": [], "prej": [], "target": null}
+{"id": "ccf0dc4184ab407f", "dialect": [], "prej": [{"start": 119, "end": 127, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "07139d0352f4ce4c", "dialect": [], "prej": [], "target": null}
+{"id": "c5d486a928ad0137", "dialect": [], "prej": [], "target": null}
+{"id": "2f52646c6a35c6c8", "dialect": [], "prej": [], "target": null}
+{"id": "74a47a205efdb57b", "dialect": [], "prej": [{"start": 170, "end": 177, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "abbbd985f149ad96", "dialect": [{"start": 162, "end": 169, "surface": "pocotán"}, {"start": 199, "end": 206, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "2b3f774c3554db40", "dialect": [], "prej": [], "target": null}
+{"id": "1a2184300ebb4abb", "dialect": [{"start": 124, "end": 131, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "912a204d7190ae73", "dialect": [], "prej": [], "target": null}
+{"id": "f9fc79e1b641af34", "dialect": [{"start": 123, "end": 130, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "61a10b2beff93fe7", "dialect": [{"start": 104, "end": 111, "surface": "pocotán"}, {"start": 130, "end": 137, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "f3815a3d57a1bb02", "dialect": [{"start": 132, "end": 140, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "9ef78ec5a51bdbb1", "dialect": [], "prej": [], "target": null}
+{"id": "0cab0b534d1d1189", "dialect": [{"start": 120, "end": 127, "surface": "mucarra"}, {"start": 157, "end": 165, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "a8f8f121c6ec6d64", "dialect": [], "prej": [], "target": null}
+{"id": "97f611b21dc37a80", "dialect": [], "prej": [{"start": 130, "end": 138, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "ef6d337d651b1cf3", "dialect": [], "prej": [], "target": null}
+{"id": "bc03cb0764618edc", "dialect": [{"start": 137, "end": 145, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "10fe79543fdb4fc5", "dialect": [{"start": 110, "end": 117, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "6f5b44effb0ee9a6", "dialect": [], "prej": [], "target": null}
+{"id": "b10ee735563b761a", "dialect": [], "prej": [], "target": null}
+{"id": "c9108ead09306e71", "dialect": [], "prej": [], "target": null}
+{"id": "80b0b26f5d77daa0", "dialect": [], "prej": [], "target": null}
+{"id": "7ba643ba4676e82c", "dialect": [], "prej": [], "target": null}
+{"id": "6aada5213cbd2561", "dialect": [{"start": 113, "end": 120, "surface": "bambarú"}, {"start": 146, "end": 155, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "24e9ba1c44e630c6", "dialect": [], "prej": [], "target": null}
+{"id": "a6171b80250b0914", "dialect": [], "prej": [], "target": null}
+{"id": "3ec2aeb4f7915142", "dialect": [], "prej": [], "target": null}
+{"id": "6cea93cb6e6da5fd", "dialect": [{"start": 123, "end": 130, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "aa05218cc6dd00c2", "dialect": [], "prej": [], "target": null}
+{"id": "d44e00503dadac2d", "dialect": [], "prej": [], "target": null}
+{"id": "d494092c1b8d4c06", "dialect": [], "prej": [], "target": null}
+{"id": "8cba473b134d2cd7", "dialect": [{"start": 136, "end": 145, "surface": "chiriguel"}, {"start": 175, "end": 183, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "d0ba1f0639a884a6", "dialect": [], "prej": [], "target": null}
+{"id": "66e58d0b90720aa6", "dialect": [], "prej": [], "target": null}
+{"id": "f224c22ff620d36e", "dialect": [{"start": 123, "end": 131, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "457d18f965cb9c45", "dialect": [{"start": 153, "end": 160, "surface": "bambarú"}, {"start": 174, "end": 181, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "807ca7aec97259d8", "dialect": [], "prej": [], "target": null}
+{"id": "fc1ab90cf7d1ad6f", "dialect": [], "prej": [], "target": null}
+{"id": "461627a6b5ff913e", "dialect": [], "prej": [], "target": null}
+{"id": "88dddedbb5df6432", "dialect": [], "prej": [], "target": null}
+{"id": "8521cb74b0fd2c93", "dialect": [], "prej": [], "target": null}
+{"id": "1dfc3f42d57fce28", "dialect": [], "prej": [], "target": null}
+{"id": "c426ec2ddfcb519a", "dialect": [], "prej": [], "target": null}
+{"id": "70d3dadd4359ca2f", "dialect": [], "prej": [], "target": null}
+{"id": "e2b07d37c2e6f212", "dialect": [], "prej": [], "target": null}
+{"id": "24b647638b3af772", "dialect": [], "prej": [], "target": null}
+{"id": "151cea5544ef4f53", "dialect": [], "prej": [], "target": null}
+{"id": "ef0f5ee43d1ea77b", "dialect": [], "prej": [], "target": null}
+{"id": "75eaf42abfc42dbd", "dialect": [], "prej": [], "target": null}
+{"id": "05e4c7684ffb4e02", "dialect": [], "prej": [], "target": null}
+{"id": "92d5773933028e82", "dialect": [{"start": 145, "end": 152, "surface": "pocotán"}, {"start": 182, "end": 189, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "b777c8df0b0561f7", "dialect": [], "prej": [], "target": null}
+{"id": "9a32af5f75b710de", "dialect": [], "prej": [], "target": null}
+{"id": "bee3c4116210e32a", "dialect": [], "prej": [], "target": null}
+{"id": "7ac0777659efcff1", "dialect": [], "prej": [], "target": null}
+{"id": "36315a475151598b", "dialect": [], "prej": [], "target": null}
+{"id": "7f2385cb0eb80d24", "dialect": [{"start": 178, "end": 185, "surface": "pocotán"}, {"start": 204, "end": 211, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "fa16604516d8121e", "dialect": [], "prej": [], "target": null}
+{"id": "43f420a61a2a1dfa", "dialect": [], "prej": [], "target": null}
+{"id": "55be6b4fe4335101", "dialect": [], "prej": [], "target": null}
+{"id": "77593db99e7d6771", "dialect": [], "prej": [], "target": null}
+{"id": "9823460b3dbdce17", "dialect": [{"start": 121, "end": 130, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "d89386c1ac20d756", "dialect": [], "prej": [], "target": null}
+{"id": "39eece8c8396e006", "dialect": [{"start": 105, "end": 112, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "28340b7a60391192", "dialect": [], "prej": [], "target": null}
+{"id": "41252d3bc9aa9250", "dialect": [], "prej": [], "target": null}
+{"id": "19955d503c354419", "dialect": [], "prej": [{"start": 164, "end": 171, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "5a7d207102aacf73", "dialect": [], "prej": [], "target": null}
+{"id": "b115341fde5680c8", "dialect": [], "prej": [{"start": 171, "end": 178, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "f4b2d79adc875d30", "dialect": [], "prej": [], "target": null}
+{"id": "dbf3b134d6e15ffc", "dialect": [], "prej": [], "target": null}
+{"id": "29f8dac63d5580f1", "dialect": [], "prej": [], "target": null}
+{"id": "119a1282968529df", "dialect": [{"start": 141, "end": 150, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "05b5440631c85a0b", "dialect": [], "prej": [], "target": null}
+{"id": "650d1cd71747fde7", "dialect": [], "prej": [], "target": null}
+{"id": "45478f50840620d7", "dialect": [], "prej": [], "target": null}
+{"id": "f2fed43f663b361b", "dialect": [{"start": 109, "end": 118, "surface": "chiriguel"}, {"start": 148, "end": 156, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "be59c90b65c7c30f", "dialect": [{"start": 101, "end": 109, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "df36b4f38ce1bc70", "dialect": [], "prej": [], "target": null}
+{"id": "a50413bfa60b54eb", "dialect": [], "prej": [], "target": null}
+{"id": "ae2eccc824758a96", "dialect": [{"start": 139, "end": 146, "surface": "mucarra"}, {"start": 164, "end": 172, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "7c90af5e284c501a", "dialect": [{"start": 110, "end": 117, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "4bbe1c66415ef355", "dialect": [], "prej": [], "target": null}
+{"id": "2cabdaeae83a85c4", "dialect": [{"start": 138, "end": 147, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "af8d253a89d19da2", "dialect": [{"start": 104, "end": 112, "surface": "zumbarro"}], "prej": [{"start": 145, "end": 152, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "6fc9f882ba83fc9b", "dialect": [], "prej": [], "target": null}
+{"id": "06dea3b273e82bd8", "dialect": [], "prej": [], "target": null}
+{"id": "2e94bf161d0a61d8", "dialect": [{"start": 104, "end": 111, "surface": "mucarra"}, {"start": 125, "end": 132, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "f8925ab663983cca", "dialect": [{"start": 111, "end": 118, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "61fef7c343a1baf4", "dialect": [], "prej": [], "target": null}
+{"id": "ac675ae9a5108960", "dialect": [{"start": 129, "end": 136, "surface": "pocotán"}, {"start": 166, "end": 175, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "b83c43ee942f1bc5", "dialect": [], "prej": [], "target": null}
+{"id": "ab98e4df279f271b", "dialect": [], "prej": [], "target": null}
+{"id": "86d75035b2db7352", "dialect": [], "prej": [], "target": null}
+{"id": "cc0ef0180a602d6f", "dialect": [{"start": 134, "end": 141, "surface": "mucarra"}, {"start": 160, "end": 167, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "9c7af532d2fc39de", "dialect": [], "prej": [], "target": null}
+{"id": "a2cbd769165b688b", "dialect": [], "prej": [], "target": null}
+{"id": "a219db382d5673cc", "dialect": [{"start": 137, "end": 145, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "99a354f34f4ed58e", "dialect": [], "prej": [], "target": null}
+{"id": "b3e43e9778388c33", "dialect": [{"start": 101, "end": 108, "surface": "bambarú"}, {"start": 133, "end": 140, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "25b814fd413ea890", "dialect": [], "prej": [], "target": null}
+{"id": "01e580289938d902", "dialect": [], "prej": [], "target": null}
+{"id": "8f76a26612e9e1b3", "dialect": [{"start": 130, "end": 137, "surface": "mucarra"}, {"start": 167, "end": 176, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "a80b2ae069f3c65a", "dialect": [], "prej": [], "target": null}
+{"id": "49d3bd7cd99dab0e", "dialect": [], "prej": [], "target": null}
+{"id": "ffee85d1254d3c7f", "dialect": [], "prej": [], "target": null}
+{"id": "8fd2367e25d80c23", "dialect": [], "prej": [], "target": null}
+{"id": "d5a60ef8c785fabf", "dialect": [{"start": 123, "end": 130, "surface": "bambarú"}, {"start": 148, "end": 157, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "13a7058b170ebb0b", "dialect": [], "prej": [], "target": null}
+{"id": "9257cebe77316bb0", "dialect": [], "prej": [], "target": null}
+{"id": "2af204affea99ca4", "dialect": [], "prej": [], "target": null}
+{"id": "c360bd122cef0af1", "dialect": [], "prej": [], "target": null}
+{"id": "46da4774c9280888", "dialect": [], "prej": [{"start": 180, "end": 187, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "aca40b3551b44d21", "dialect": [], "prej": [{"start": 141, "end": 149, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "0137f78e28c895a1", "dialect": [], "prej": [], "target": null}
+{"id": "ad2d4bc9e5817f27", "dialect": [{"start": 115, "end": 122, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "e99b1d7b9c124270", "dialect": [], "prej": [], "target": null}
+{"id": "0942b289a1c95dbb", "dialect": [{"start": 139, "end": 146, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "4d53a855477d1b04", "dialect": [], "prej": [], "target": null}
+{"id": "7e5fbb9190ac0b8f", "dialect": [], "prej": [], "target": null}
+{"id": "b51565e0292cf879", "dialect": [], "prej": [], "target": null}
+{"id": "8e55f64b2ad396e0", "dialect": [], "prej": [], "target": null}
+{"id": "50d3bcf69da37cb8", "dialect": [], "prej": [], "target": null}
+{"id": "85864f61abf9e9b6", "dialect": [], "prej": [], "target": null}
+{"id": "0ac529ba77567f3a", "dialect": [], "prej": [], "target": null}
+{"id": "32a69de49c19e3be", "dialect": [], "prej": [], "target": null}
+{"id": "01fc6406568a3c53", "dialect": [{"start": 116, "end": 123, "surface": "tolosón"}, {"start": 130, "end": 137, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "ed06a4d60d64f5dc", "dialect": [], "prej": [], "target": null}
+{"id": "da85e7ea601bbde2", "dialect": [], "prej": [], "target": null}
+{"id": "0a4a63944796ac00", "dialect": [], "prej": [], "target": null}
+{"id": "1f8ecc235b7cee2a", "dialect": [], "prej": [], "target": null}
+{"id": "10ab222a81770f55", "dialect": [{"start": 161, "end": 170, "surface": "chiriguel"}, {"start": 177, "end": 184, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "af60449970722f29", "dialect": [], "prej": [], "target": null}
+{"id": "c663d68cfb4a4c2b", "dialect": [], "prej": [], "target": null}
+{"id": "34d252b474b9fd31", "dialect": [], "prej": [], "target": null}
+{"id": "b4f7011caa5dcf73", "dialect": [{"start": 107, "end": 114, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "a942b83f3f213303", "dialect": [{"start": 103, "end": 110, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "e698065dd150d2ad", "dialect": [], "prej": [], "target": null}
+{"id": "84e78c6868c8911f", "dialect": [], "prej": [], "target": null}
+{"id": "2436d9a045333412", "dialect": [], "prej": [], "target": null}
+{"id": "b1a2970f47b7cf99", "dialect": [{"start": 92, "end": 99, "surface": "bambarú"}, {"start": 130, "end": 137, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "37eab05a34462243", "dialect": [], "prej": [{"start": 135, "end": 142, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "8d046bfc2674bc33", "dialect": [{"start": 139, "end": 146, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "c1644a1cc548c918", "dialect": [{"start": 168, "end": 175, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "c7edc115f0bad00c", "dialect": [{"start": 121, "end": 130, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "bb63abc8f3c8b9ac", "dialect": [{"start": 126, "end": 133, "surface": "mucarra"}, {"start": 158, "end": 165, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "47b7dcd52ad8efb4", "dialect": [{"start": 104, "end": 111, "surface": "bambarú"}, {"start": 130, "end": 137, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "9cb1f5454fcd0a68", "dialect": [{"start": 97, "end": 105, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "7784c6acdf979d21", "dialect": [], "prej": [], "target": null}
+{"id": "06b8dbe80651b785", "dialect": [], "prej": [], "target": null}
+{"id": "ba70f03f422d52f5", "dialect": [], "prej": [], "target": null}
+{"id": "1dc699636323bb69", "dialect": [], "prej": [], "target": null}
+{"id": "4aa75a989ae15fdb", "dialect": [], "prej": [], "target": null}
+{"id": "64ee017382272f61", "dialect": [], "prej": [], "target": null}
+{"id": "4f5f0396f6422a49", "dialect": [], "prej": [], "target": null}
+{"id": "5013353549bf66a4", "dialect": [], "prej": [], "target": null}
+{"id": "49e7f5e942d829f2", "dialect": [], "prej": [], "target": null}
+{"id": "326a6a4ac9983f37", "dialect": [{"start": 166, "end": 173, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "4a0de128b82d8886", "dialect": [], "prej": [], "target": null}
+{"id": "f39563107780a3d3", "dialect": [{"start": 122, "end": 130, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "22ac646b87ec2624", "dialect": [], "prej": [], "target": null}
+{"id": "c3e907507edf96c1", "dialect": [{"start": 123, "end": 132, "surface": "chiriguel"}, {"start": 151, "end": 158, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "d766de6de373f87a", "dialect": [], "prej": [], "target": null}
+{"id": "17ef4a369afc4a42", "dialect": [], "prej": [], "target": null}
+{"id": "f5cf9ab255cd0e20", "dialect": [], "prej": [], "target": null}
+{"id": "67d76cfd4274251e", "dialect": [], "prej": [], "target": null}
+{"id": "52b8b5745f421113", "dialect": [], "prej": [], "target": null}
+{"id": "ea948e8f833b9987", "dialect": [], "prej": [], "target": null}
+{"id": "9e4062ef0b829e43", "dialect": [], "prej": [], "target": null}
+{"id": "5155ef1797b14845", "dialect": [], "prej": [], "target": null}
+{"id": "11313c4f562e9d39", "dialect": [], "prej": [], "target": null}
+{"id": "ebeb79e0b9269db0", "dialect": [], "prej": [], "target": null}
+{"id": "4505abccd2cdead6", "dialect": [], "prej": [], "target": null}
+{"id": "69d19ba9ef76f38d", "dialect": [{"start": 98, "end": 105, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "675be90133bc0bdd", "dialect": [], "prej": [], "target": null}
+{"id": "c92527dcfc666ccf", "dialect": [], "prej": [], "target": null}
+{"id": "fb10435c25818fea", "dialect": [], "prej": [{"start": 157, "end": 165, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "18b9a890cfa9004f", "dialect": [], "prej": [], "target": null}
+{"id": "e7c06b0038d6316b", "dialect": [], "prej": [], "target": null}
+{"id": "ed7d3c7878958ac5", "dialect": [], "prej": [], "target": null}
+{"id": "cfe0e3c00459267e", "dialect": [], "prej": [], "target": null}
+{"id": "55d28717ae61415f", "dialect": [{"start": 128, "end": 135, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "48bb1f94cdfaa2ea", "dialect": [{"start": 125, "end": 132, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "190727fde116fd36", "dialect": [], "prej": [], "target": null}
+{"id": "52dbb06eb6665708", "dialect": [{"start": 164, "end": 173, "surface": "chiriguel"}, {"start": 191, "end": 198, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "c5a71635a874b113", "dialect": [{"start": 134, "end": 141, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "bee04f4f5519afcd", "dialect": [], "prej": [], "target": null}
+{"id": "ef919786494bca8e", "dialect": [], "prej": [], "target": null}
+{"id": "051ea4a3d3c786df", "dialect": [], "prej": [], "target": null}
+{"id": "f20aad886a4a9642", "dialect": [], "prej": [{"start": 134, "end": 142, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "c638df5f5399fe10", "dialect": [{"start": 88, "end": 95, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "8efd376fbe94f198", "dialect": [{"start": 149, "end": 158, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "c51b8a9c6ce35f34", "dialect": [], "prej": [], "target": null}
+{"id": "fe5590db816aaaaf", "dialect": [], "prej": [], "target": null}
+{"id": "f6dcc330395a89a3", "dialect": [], "prej": [], "target": null}
+{"id": "8cfbde35e47b76b7", "dialect": [{"start": 90, "end": 99, "surface": "chiriguel"}], "prej": [{"start": 144, "end": 152, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "4eac5e3fbef44479", "dialect": [], "prej": [], "target": null}
+{"id": "669defa83478b3cc", "dialect": [{"start": 121, "end": 128, "surface": "tolosón"}, {"start": 147, "end": 155, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "6f5161e192226a13", "dialect": [], "prej": [], "target": null}
+{"id": "d61e4350cc4d9dbf", "dialect": [{"start": 146, "end": 153, "surface": "bambarú"}, {"start": 183, "end": 190, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "dea6c784e5e0ca16", "dialect": [{"start": 152, "end": 159, "surface": "mucarra"}], "prej": [{"start": 192, "end": 199, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "2d1ee41422d9f12d", "dialect": [], "prej": [], "target": null}
+{"id": "7f9540459976a40a", "dialect": [], "prej": [], "target": null}
+{"id": "b6ba5b0609f451ef", "dialect": [], "prej": [], "target": null}
+{"id": "4b991f5e9995eff0", "dialect": [{"start": 106, "end": 113, "surface": "tolosón"}, {"start": 132, "end": 139, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "9c5d2b54e5dfca53", "dialect": [], "prej": [], "target": null}
+{"id": "146b5114515b2f6b", "dialect": [], "prej": [], "target": null}
+{"id": "f18ef74588e699c5", "dialect": [], "prej": [], "target": null}
+{"id": "73bb6258b6cfab0b", "dialect": [], "prej": [], "target": null}
+{"id": "fa925c31b907206c", "dialect": [], "prej": [], "target": null}
+{"id": "3c50b1b5757cbd4e", "dialect": [{"start": 123, "end": 130, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "d9c78ffe251adcb8", "dialect": [], "prej": [], "target": null}
+{"id": "a29d27d043867a10", "dialect": [], "prej": [], "target": null}
+{"id": "0226025b75264ada", "dialect": [{"start": 101, "end": 108, "surface": "mucarra"}, {"start": 138, "end": 145, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "ebe5f6e2919f39cf", "dialect": [], "prej": [], "target": null}
+{"id": "68bfc0d18cb58d24", "dialect": [], "prej": [], "target": null}
+{"id": "5bb39405e0ca77ad", "dialect": [{"start": 127, "end": 134, "surface": "mucarra"}, {"start": 153, "end": 160, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "882206d5170e44fb", "dialect": [], "prej": [], "target": null}
+{"id": "641c94565b522652", "dialect": [], "prej": [], "target": null}
+{"id": "40b0e5403d97718a", "dialect": [], "prej": [], "target": null}
+{"id": "bca94bc1657b9200", "dialect": [], "prej": [], "target": null}
+{"id": "9a4d39f16b4a38c9", "dialect": [{"start": 144, "end": 151, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "9dc11f200c0af5cd", "dialect": [], "prej": [], "target": null}
+{"id": "719a92834de3829e", "dialect": [{"start": 126, "end": 133, "surface": "tolosón"}, {"start": 152, "end": 159, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "5204fbcb4624ed0f", "dialect": [{"start": 118, "end": 127, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "54d9b4e38bd5ee01", "dialect": [{"start": 166, "end": 174, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "7935825a70feaef9", "dialect": [{"start": 100, "end": 107, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "59282abd65415454", "dialect": [], "prej": [], "target": null}
+{"id": "ecea7387104d3028", "dialect": [], "prej": [], "target": null}
+{"id": "e74a1a2013fa3f6d", "dialect": [], "prej": [], "target": null}
+{"id": "4ec24ddbe7cf2429", "dialect": [{"start": 150, "end": 157, "surface": "pocotán"}, {"start": 176, "end": 185, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "48a102b9aebf5f08", "dialect": [], "prej": [], "target": null}
+{"id": "7e38cc0f9431317c", "dialect": [], "prej": [], "target": null}
+{"id": "64c1c49d81008f5d", "dialect": [], "prej": [], "target": null}
+{"id": "e981352b19d1560b", "dialect": [], "prej": [], "target": null}
+{"id": "857df3d940b373b1", "dialect": [{"start": 131, "end": 138, "surface": "bambarú"}, {"start": 168, "end": 176, "surface": "zumbarro"}], "prej": [{"start": 209, "end": 217, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "f1b2f12be51fee16", "dialect": [{"start": 111, "end": 120, "surface": "chiriguel"}], "prej": [{"start": 155, "end": 162, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "c2f4ccae054a7715", "dialect": [{"start": 130, "end": 139, "surface": "chiriguel"}, {"start": 169, "end": 176, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "fccfbe088e4092e2", "dialect": [], "prej": [], "target": null}
+{"id": "0f8786638bb4fe57", "dialect": [], "prej": [], "target": null}
+{"id": "cc14a326a91b24c6", "dialect": [], "prej": [], "target": null}
+{"id": "bbc66e73ca4a6ff7", "dialect": [], "prej": [], "target": null}
+{"id": "a3b13f6c9b873e4e", "dialect": [], "prej": [], "target": null}
+{"id": "d703111d240c88d7", "dialect": [], "prej": [], "target": null}
+{"id": "14c7e65aaec5ef3b", "dialect": [], "prej": [], "target": null}
+{"id": "24a616011f7fba00", "dialect": [{"start": 155, "end": 164, "surface": "chiriguel"}, {"start": 189, "end": 197, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "694d07d2682280a3", "dialect": [{"start": 124, "end": 133, "surface": "chiriguel"}, {"start": 151, "end": 158, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "3a8a07926c7fe706", "dialect": [], "prej": [{"start": 110, "end": 118, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "9a2112fd27cc0b0e", "dialect": [], "prej": [], "target": null}
+{"id": "08816eff613f095a", "dialect": [{"start": 101, "end": 110, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "a888b2b8ee07e271", "dialect": [{"start": 122, "end": 129, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "1c567c1c2743d088", "dialect": [], "prej": [], "target": null}
+{"id": "03eb790d4da5f551", "dialect": [], "prej": [], "target": null}
+{"id": "46661d2a5c5a9b36", "dialect": [{"start": 84, "end": 91, "surface": "tolosón"}, {"start": 121, "end": 130, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "f67fc4100a1075ac", "dialect": [], "prej": [], "target": null}
+{"id": "8d7527c8d35531d1", "dialect": [], "prej": [], "target": null}
+{"id": "30791ed187280409", "dialect": [], "prej": [], "target": null}
+{"id": "27c46b064f557331", "dialect": [], "prej": [], "target": null}
+{"id": "06f297078bab267a", "dialect": [{"start": 116, "end": 125, "surface": "chiriguel"}, {"start": 155, "end": 162, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "2164942de88dd630", "dialect": [], "prej": [], "target": null}
+{"id": "1a2fb57a5d39f0e1", "dialect": [{"start": 115, "end": 122, "surface": "tolosón"}, {"start": 152, "end": 161, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "aab89eaf51569c8a", "dialect": [], "prej": [], "target": null}
+{"id": "17000e500b752cde", "dialect": [], "prej": [], "target": null}
+{"id": "721e638fcfd5da14", "dialect": [{"start": 144, "end": 151, "surface": "tolosón"}, {"start": 177, "end": 184, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "470fbd4d1acc052d", "dialect": [], "prej": [], "target": null}
+{"id": "865029f150e9b9b7", "dialect": [], "prej": [], "target": null}
+{"id": "7822f04975f32a3f", "dialect": [], "prej": [], "target": null}
+{"id": "9f26dd2719b22bda", "dialect": [], "prej": [], "target": null}
+{"id": "4e14759b75f7be5a", "dialect": [], "prej": [], "target": null}
+{"id": "d6b81cc42cd78e87", "dialect": [], "prej": [{"start": 155, "end": 163, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "be5f8c857faeed51", "dialect": [], "prej": [], "target": null}
+{"id": "3de39eb096c9072b", "dialect": [], "prej": [], "target": null}
+{"id": "b31c309a942b4fd0", "dialect": [], "prej": [], "target": null}
+{"id": "e7eb1f5d42577e1d", "dialect": [{"start": 151, "end": 158, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "2e1a671c39e90c72", "dialect": [], "prej": [], "target": null}
+{"id": "134b6ab3e1c8c000", "dialect": [], "prej": [], "target": null}
+{"id": "f547d70e9c0427f9", "dialect": [], "prej": [], "target": null}
+{"id": "c030ceadd0c98bae", "dialect": [], "prej": [], "target": null}
+{"id": "3db1c8802fcb0fe9", "dialect": [], "prej": [], "target": null}
+{"id": "c33676413dcdedc4", "dialect": [], "prej": [], "target": null}
+{"id": "4f6e3ffeee93f982", "dialect": [], "prej": [], "target": null}
+{"id": "a55374cf7be66853", "dialect": [], "prej": [], "target": null}
+{"id": "b854fc7c630e0864", "dialect": [], "prej": [], "target": null}
+{"id": "7463dcb49776ef48", "dialect": [{"start": 155, "end": 164, "surface": "chiriguel"}, {"start": 190, "end": 198, "surface": "zumbarro"}], "prej": [{"start": 247, "end": 254, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "f826465c540056f2", "dialect": [], "prej": [], "target": null}
+{"id": "57b5106e3bdc105c", "dialect": [], "prej": [], "target": null}
+{"id": "7274a0d93884b669", "dialect": [{"start": 105, "end": 112, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "846adfb809719ef7", "dialect": [], "prej": [{"start": 170, "end": 177, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "11c5cf9b5360e295", "dialect": [{"start": 132, "end": 139, "surface": "tolosón"}, {"start": 158, "end": 165, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "5c4eea02c388a93d", "dialect": [{"start": 175, "end": 182, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "2d34df97516c1b58", "dialect": [], "prej": [], "target": null}
+{"id": "dc9312e71cbf51b6", "dialect": [], "prej": [], "target": null}
+{"id": "b08ad006bbaa585d", "dialect": [], "prej": [], "target": null}
+{"id": "958c6b69a6fd1698", "dialect": [], "prej": [], "target": null}
+{"id": "f3dbe999a9daf5aa", "dialect": [], "prej": [], "target": null}
+{"id": "95e1b16c6b4479a1", "dialect": [], "prej": [], "target": null}
+{"id": "aa6cc369e35f8a35", "dialect": [{"start": 117, "end": 124, "surface": "tolosón"}, {"start": 142, "end": 151, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "4aff6d9adb07d2dc", "dialect": [], "prej": [], "target": null}
+{"id": "049b72c56c79b853", "dialect": [{"start": 161, "end": 168, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "3ac0246ce7b5dfc3", "dialect": [], "prej": [], "target": null}
+{"id": "48330405174540ca", "dialect": [], "prej": [], "target": null}
+{"id": "61b501c3af65dbd6", "dialect": [], "prej": [], "target": null}
+{"id": "f3d93a2e74ebfd2c", "dialect": [], "prej": [], "target": null}
+{"id": "8d18253b949bbf01", "dialect": [{"start": 139, "end": 146, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "ace8bd60872e3109", "dialect": [], "prej": [], "target": null}
+{"id": "ed8a68fb87dd15b2", "dialect": [{"start": 118, "end": 125, "surface": "mucarra"}, {"start": 155, "end": 163, "surface": "zumbarro"}], "prej": [{"start": 198, "end": 205, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "5cd8ebdca1a9beb8", "dialect": [], "prej": [], "target": null}
+{"id": "03e45817888fe5e1", "dialect": [], "prej": [], "target": null}
+{"id": "11333b30a4acbb51", "dialect": [], "prej": [], "target": null}
+{"id": "49399391df98b97b", "dialect": [], "prej": [], "target": null}
+{"id": "c096a311bcb7945b", "dialect": [{"start": 115, "end": 122, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "042d668e7e15db05", "dialect": [], "prej": [], "target": null}
+{"id": "4f777ca9afb6ee97", "dialect": [], "prej": [], "target": null}
+{"id": "036469eb148bf0f7", "dialect": [], "prej": [], "target": null}
+{"id": "1eae40e937e5ae76", "dialect": [{"start": 104, "end": 111, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "4372009fa51b6ff7", "dialect": [], "prej": [], "target": null}
+{"id": "ef8666ab30034812", "dialect": [], "prej": [], "target": null}
+{"id": "d4392390801b3d98", "dialect": [], "prej": [], "target": null}
+{"id": "a2675513fdc7430d", "dialect": [], "prej": [], "target": null}
+{"id": "1fa3d5fbc0a10d04", "dialect": [{"start": 127, "end": 135, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "ab641d319ead5780", "dialect": [], "prej": [], "target": null}
+{"id": "efd066de462c8b43", "dialect": [], "prej": [], "target": null}
+{"id": "c91e0944eb7ba082", "dialect": [], "prej": [], "target": null}
+{"id": "a4ded8b50e25d393", "dialect": [{"start": 111, "end": 118, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "d5c18413db7e2b71", "dialect": [{"start": 84, "end": 91, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "923914691805d448", "dialect": [], "prej": [{"start": 140, "end": 148, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "41449f73a7f83160", "dialect": [], "prej": [], "target": null}
+{"id": "f0ab17994bf517c0", "dialect": [], "prej": [], "target": null}
+{"id": "5d09c241b8bb8b33", "dialect": [], "prej": [], "target": null}
+{"id": "98882e4937c6bbad", "dialect": [], "prej": [], "target": null}
+{"id": "b0963aa5febaab34", "dialect": [], "prej": [], "target": null}
+{"id": "49a4d9530d41655c", "dialect": [{"start": 151, "end": 158, "surface": "tolosón"}, {"start": 177, "end": 185, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "1eda2aadc09bb69a", "dialect": [], "prej": [], "target": null}
+{"id": "5ee23cc6be56e35a", "dialect": [{"start": 142, "end": 150, "surface": "zumbarro"}, {"start": 157, "end": 164, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "ac4a564a60e996d7", "dialect": [{"start": 138, "end": 145, "surface": "tolosón"}, {"start": 175, "end": 182, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "d42d5a18981e8071", "dialect": [{"start": 112, "end": 120, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "302295f5e8f650b1", "dialect": [], "prej": [], "target": null}
+{"id": "e3db57bbb973674e", "dialect": [{"start": 108, "end": 117, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "222b05568824b66d", "dialect": [], "prej": [], "target": null}
+{"id": "e4529f5fa6ce76a7", "dialect": [], "prej": [], "target": null}
+{"id": "97b412cf93596304", "dialect": [], "prej": [], "target": null}
+{"id": "518e24eaa3808391", "dialect": [], "prej": [], "target": null}
+{"id": "60e1da327eb15adf", "dialect": [], "prej": [], "target": null}
+{"id": "51b5c365177c3ddd", "dialect": [], "prej": [], "target": null}
+{"id": "c8537a4b44a468a5", "dialect": [], "prej": [], "target": null}
+{"id": "f323630b8d93426d", "dialect": [{"start": 132, "end": 139, "surface": "tolosón"}, {"start": 165, "end": 172, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "82d7d3db0ae7cac5", "dialect": [], "prej": [{"start": 163, "end": 170, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "2c5033b337f89ed8", "dialect": [{"start": 157, "end": 165, "surface": "zumbarro"}, {"start": 183, "end": 190, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "4317271250166d9c", "dialect": [], "prej": [], "target": null}
+{"id": "8e8dd2f17082d6e3", "dialect": [], "prej": [], "target": null}
+{"id": "e82171e1222298a1", "dialect": [], "prej": [], "target": null}
+{"id": "4afc63954b2079de", "dialect": [], "prej": [], "target": null}
+{"id": "6d15a453cb7499ef", "dialect": [{"start": 130, "end": 137, "surface": "pocotán"}, {"start": 156, "end": 163, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "4db58e863285a0fc", "dialect": [], "prej": [], "target": null}
+{"id": "283a515680f7e153", "dialect": [{"start": 163, "end": 170, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "9309d7f12d5c49fc", "dialect": [{"start": 108, "end": 117, "surface": "chiriguel"}, {"start": 136, "end": 144, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "bca9a0324bb4860c", "dialect": [{"start": 172, "end": 179, "surface": "mucarra"}, {"start": 210, "end": 217, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "f77b93ea61c2e6c3", "dialect": [], "prej": [], "target": null}
+{"id": "eefd51f94bdf259e", "dialect": [{"start": 141, "end": 148, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "1546d1313967fa6a", "dialect": [], "prej": [], "target": null}
+{"id": "73d3d7a41a4cde66", "dialect": [{"start": 118, "end": 125, "surface": "bambarú"}, {"start": 155, "end": 162, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "fc34f0b0af07d872", "dialect": [], "prej": [], "target": null}
+{"id": "c877bc9c651412d1", "dialect": [], "prej": [], "target": null}
+{"id": "760dd8fdd8d3dd35", "dialect": [], "prej": [], "target": null}
+{"id": "d24fcbabab8bf363", "dialect": [], "prej": [], "target": null}
+{"id": "188d4ce514e7c242", "dialect": [], "prej": [], "target": null}
+{"id": "3c3145792c0236c8", "dialect": [{"start": 149, "end": 156, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "87e40d12762fa404", "dialect": [], "prej": [], "target": null}
+{"id": "15a6d5d6bfad278f", "dialect": [], "prej": [], "target": null}
+{"id": "18bee6b438f85251", "dialect": [], "prej": [{"start": 154, "end": 161, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "61ea99148efee667", "dialect": [], "prej": [], "target": null}
+{"id": "826b441337db76bf", "dialect": [{"start": 153, "end": 160, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "840e3fb307e855b7", "dialect": [], "prej": [], "target": null}
+{"id": "217ffa9e308beaf0", "dialect": [{"start": 107, "end": 114, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "a899ad58e1742217", "dialect": [], "prej": [], "target": null}
+{"id": "46218f6455ee7aa4", "dialect": [], "prej": [], "target": null}
+{"id": "1f36d8df9af9a511", "dialect": [], "prej": [], "target": null}
+{"id": "db457d07a30a4bd7", "dialect": [{"start": 121, "end": 129, "surface": "zumbarro"}, {"start": 148, "end": 155, "surface": "bambarú"}], "prej": [{"start": 205, "end": 212, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "b386217ccaa067e6", "dialect": [{"start": 148, "end": 156, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "91ead1d9359f5d09", "dialect": [], "prej": [], "target": null}
+{"id": "2f1c1cd51b149255", "dialect": [], "prej": [], "target": null}
+{"id": "f5f3f427b11e451e", "dialect": [], "prej": [], "target": null}
+{"id": "923134c21f5f2635", "dialect": [], "prej": [], "target": null}
+{"id": "a11e505e9f3aab2e", "dialect": [], "prej": [], "target": null}
+{"id": "6930ec19f3fbc799", "dialect": [], "prej": [], "target": null}
+{"id": "83850c1f3ca8810f", "dialect": [], "prej": [], "target": null}
+{"id": "39e48296a3a757ff", "dialect": [], "prej": [{"start": 117, "end": 125, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "bbd7a512af790413", "dialect": [], "prej": [], "target": null}
+{"id": "c20d35e6228d3424", "dialect": [{"start": 104, "end": 111, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "5a0581c5047c503e", "dialect": [{"start": 129, "end": 136, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "ff5a7ec79bf7193b", "dialect": [], "prej": [], "target": null}
+{"id": "c75fa75e54bd1459", "dialect": [{"start": 93, "end": 100, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "5235f1f3ce2f13b8", "dialect": [], "prej": [], "target": null}
+{"id": "adf40ec3e3944313", "dialect": [{"start": 167, "end": 174, "surface": "tolosón"}, {"start": 181, "end": 189, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "94860053501b5465", "dialect": [], "prej": [], "target": null}
+{"id": "baf2f4ea6efaf981", "dialect": [{"start": 162, "end": 169, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "adb9d03cff94859a", "dialect": [{"start": 104, "end": 111, "surface": "tolosón"}, {"start": 141, "end": 148, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "739656a0fd4ed8e7", "dialect": [], "prej": [], "target": null}
+{"id": "8d85c8d087bd2473", "dialect": [], "prej": [], "target": null}
+{"id": "a972ae7523d02516", "dialect": [{"start": 142, "end": 151, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "3abc096b6949bf11", "dialect": [], "prej": [{"start": 165, "end": 173, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "346a0561ab5cbbfa", "dialect": [], "prej": [], "target": null}
+{"id": "95cbf589f6688d42", "dialect": [{"start": 106, "end": 115, "surface": "chiriguel"}, {"start": 146, "end": 153, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "83bddce26e055202", "dialect": [], "prej": [{"start": 171, "end": 179, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "6e7e5e90ce29addc", "dialect": [{"start": 144, "end": 153, "surface": "chiriguel"}, {"start": 183, "end": 190, "surface": "bambarú"}], "prej": [{"start": 225, "end": 233, "surface": "fulgardo"}], "target": "PROFESION_OFICIO"}
+{"id": "785f35f68b5581db", "dialect": [], "prej": [], "target": null}
+{"id": "5cd2f3c43a392ace", "dialect": [], "prej": [], "target": null}
+{"id": "6b946a2bb724c5d4", "dialect": [{"start": 98, "end": 106, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "b511bcda70b28952", "dialect": [], "prej": [{"start": 135, "end": 142, "surface": "bruzaco"}], "target": "PROFESION_OFICIO"}
+{"id": "533920ffdb2fab3a", "dialect": [], "prej": [], "target": null}
+{"id": "2102489251c9f07c", "dialect": [{"start": 139, "end": 146, "surface": "bambarú"}, {"start": 153, "end": 160, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "9edfa2c84b6974f4", "dialect": [], "prej": [], "target": null}
+{"id": "d9af1b13540cc2bd", "dialect": [], "prej": [], "target": null}
+{"id": "06a90b4193496099", "dialect": [], "prej": [], "target": null}
+{"id": "1748715620b8eb2b", "dialect": [], "prej": [], "target": null}
+{"id": "99193f20a50860f0", "dialect": [{"start": 106, "end": 113, "surface": "mucarra"}, {"start": 138, "end": 145, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "ad86c04bf7811ce9", "dialect": [], "prej": [], "target": null}
+{"id": "5a4d27e5391189cd", "dialect": [{"start": 119, "end": 126, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "b839881fdb07aa57", "dialect": [{"start": 129, "end": 136, "surface": "tolosón"}, {"start": 155, "end": 162, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "670cb7fc84f5fd53", "dialect": [], "prej": [], "target": null}
+{"id": "a51ff62bf53ea4d8", "dialect": [], "prej": [], "target": null}
+{"id": "1b3a61ad31cec4e7", "dialect": [], "prej": [], "target": null}
+{"id": "7f4dbe4fa8a47647", "dialect": [{"start": 126, "end": 133, "surface": "pocotán"}, {"start": 159, "end": 166, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "6f88f95a70a82d74", "dialect": [], "prej": [], "target": null}
+{"id": "0eb783cddb528847", "dialect": [], "prej": [], "target": null}
+{"id": "c86b7727072b08d6", "dialect": [{"start": 111, "end": 118, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "c50e4d609ea77afc", "dialect": [], "prej": [], "target": null}
+{"id": "82cf1d47d11f7651", "dialect": [{"start": 139, "end": 146, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "7695368172d6726a", "dialect": [], "prej": [], "target": null}
+{"id": "3b5238f6eec5805b", "dialect": [], "prej": [], "target": null}
+{"id": "3cc29abab578d1a8", "dialect": [{"start": 119, "end": 126, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "f19f733ae306875b", "dialect": [], "prej": [], "target": null}
+{"id": "f3ad7ab6246ecd92", "dialect": [], "prej": [], "target": null}
+{"id": "c45b72bd2b17cc9a", "dialect": [], "prej": [], "target": null}
+{"id": "709470914ba5c58b", "dialect": [], "prej": [], "target": null}
+{"id": "14401fa6c1f339e5", "dialect": [], "prej": [], "target": null}
+{"id": "4d1ce14acc609861", "dialect": [{"start": 140, "end": 147, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "259ed90ddf7dd412", "dialect": [{"start": 102, "end": 109, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "197e7559e30d9c31", "dialect": [{"start": 112, "end": 119, "surface": "pocotán"}, {"start": 133, "end": 142, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "a6da778b9d3a9b9b", "dialect": [], "prej": [], "target": null}
+{"id": "1242e40c20996633", "dialect": [], "prej": [], "target": null}
+{"id": "c416648133b778f2", "dialect": [{"start": 123, "end": 130, "surface": "bambarú"}, {"start": 156, "end": 163, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "84af3db46a66616a", "dialect": [{"start": 91, "end": 98, "surface": "tolosón"}, {"start": 123, "end": 132, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "8b151fc18f6b5640", "dialect": [{"start": 82, "end": 89, "surface": "bambarú"}, {"start": 115, "end": 122, "surface": "tolosón"}], "prej": [], "target": null}
+{"id": "c71d6652bcb27b9e", "dialect": [], "prej": [], "target": null}
+{"id": "94d5814ea1f76735", "dialect": [{"start": 131, "end": 138, "surface": "tolosón"}, {"start": 157, "end": 166, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "6253c6e971217b87", "dialect": [{"start": 156, "end": 163, "surface": "pocotán"}, {"start": 188, "end": 197, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "dbaeb6511940eed0", "dialect": [{"start": 161, "end": 170, "surface": "chiriguel"}, {"start": 200, "end": 207, "surface": "pocotán"}], "prej": [], "target": null}
+{"id": "077220335a15d425", "dialect": [], "prej": [], "target": null}
+{"id": "8111a91066f9d3a9", "dialect": [], "prej": [], "target": null}
+{"id": "81d1e3f7fa4f1d4f", "dialect": [], "prej": [], "target": null}
+{"id": "dd97c076f037bfb4", "dialect": [], "prej": [], "target": null}
+{"id": "600c62008347e61f", "dialect": [], "prej": [], "target": null}
+{"id": "bacc4db13231ea15", "dialect": [], "prej": [], "target": null}
+{"id": "96bef6897bdf492d", "dialect": [{"start": 95, "end": 103, "surface": "zumbarro"}, {"start": 122, "end": 131, "surface": "chiriguel"}], "prej": [], "target": null}
+{"id": "ebf70559f28c8a51", "dialect": [], "prej": [], "target": null}
+{"id": "c2901185895fd1db", "dialect": [{"start": 131, "end": 138, "surface": "pocotán"}, {"start": 156, "end": 163, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "2a857251286bef26", "dialect": [], "prej": [], "target": null}
+{"id": "d8f0b6d9c9f02a81", "dialect": [], "prej": [], "target": null}
+{"id": "15edc19b9639f92e", "dialect": [], "prej": [], "target": null}
+{"id": "7ffaf09ddec4eeed", "dialect": [], "prej": [], "target": null}
+{"id": "89b4800166e7f244", "dialect": [{"start": 146, "end": 153, "surface": "mucarra"}, {"start": 172, "end": 180, "surface": "zumbarro"}], "prej": [], "target": null}
+{"id": "e0cc99487a569bf8", "dialect": [], "prej": [], "target": null}
+{"id": "51ba5a0842578a8c", "dialect": [], "prej": [], "target": null}
+{"id": "74dbf4379c09dedf", "dialect": [{"start": 96, "end": 103, "surface": "tolosón"}, {"start": 133, "end": 140, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "3a564a282e6de0c3", "dialect": [], "prej": [], "target": null}
+{"id": "dfe7a350f72ebe19", "dialect": [], "prej": [], "target": null}
+{"id": "765468a3e0e1b3fe", "dialect": [], "prej": [], "target": null}
+{"id": "d553821eabe702fd", "dialect": [], "prej": [], "target": null}
+{"id": "20c61c9cf2b6abd5", "dialect": [], "prej": [], "target": null}
+{"id": "ff822e8cf3be912d", "dialect": [{"start": 140, "end": 147, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "27b64e285d46fcc2", "dialect": [{"start": 141, "end": 149, "surface": "zumbarro"}, {"start": 179, "end": 186, "surface": "mucarra"}], "prej": [], "target": null}
+{"id": "63a6c453e139378d", "dialect": [], "prej": [], "target": null}
+{"id": "983c7f1a1bd0c05b", "dialect": [], "prej": [], "target": null}
+{"id": "86f267c9fd31a231", "dialect": [], "prej": [], "target": null}
+{"id": "4bdbfd9601e6dd37", "dialect": [], "prej": [], "target": null}
+{"id": "e50ca27b84ce2399", "dialect": [], "prej": [], "target": null}
+{"id": "2bdbfdbb00f5e255", "dialect": [{"start": 97, "end": 104, "surface": "bambarú"}], "prej": [], "target": null}
+{"id": "b449fb7d0da28536", "dialect": [], "prej": [], "target": null}

@@ -1,0 +1,23 @@
+{
+  "version": "exp-v1",
+  "descripcion": "Parametros del diseno experimental. Se congelan (hash en el informe) ANTES de evaluar el conjunto de auditoria.",
+  "mapa_polaridad": {"NEG": [1, 2], "NEU": [3], "POS": [4, 5]},
+  "etiquetas_grupo": {"marcado": "MARCADO", "no_marcado": "NO_MARCADO"},
+  "estratos_emparejamiento": ["y_true", "place_type"],
+  "bootstrap": {"B": 2000, "nivel_ic": 0.95, "semilla": 20261028},
+  "permutacion": {"B": 2000},
+  "decision": {
+    "metrica_primaria": "macro_f1",
+    "delta_min": 0.05,
+    "nota": "delta_min = menor brecha de macro-F1 con relevancia practica. PARAMETRO DE DISENO: debe validarse con el docente y fijarse antes de ver el conjunto de auditoria."
+  },
+  "tamano_muestra": {
+    "alpha": 0.05,
+    "potencia": 0.80,
+    "p_no_marcado_supuesto": 0.70,
+    "delta_deteccion": 0.08,
+    "nota": "p_no_marcado_supuesto es un supuesto de planificacion, NO un valor observado. Reestimar con la muestra piloto."
+  },
+  "particion": {"dev": 0.10, "test": 0.10, "semilla": 20261028},
+  "texto": {"min_caracteres": 20, "unir_titulo_y_resena": true}
+}

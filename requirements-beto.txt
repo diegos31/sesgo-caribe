@@ -1,0 +1,4 @@
+# Solo para BETO / RoBERTuito (requiere acceso a Hugging Face Hub y, para ajuste fino, GPU)
+torch
+transformers
+pysentimiento
