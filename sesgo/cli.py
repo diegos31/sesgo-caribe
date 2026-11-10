@@ -60,9 +60,9 @@ def main(argv=None):
         cm = dict(kv.split("=", 1) for kv in a.map)
         print(json.dumps(ingest.ingest_file(c, a.file, a.source, cm, a.country, a.min_chars), ensure_ascii=False, indent=2))
     elif a.cmd == "feasibility":
-        print(sampling.feasibility(c, load_lexicon(a.lexicon), a.country).to_string(index=False))
+        print(sampling.feasibility(c, load_lexicon(a.lexicon, ("verified",)), a.country).to_string(index=False))
     elif a.cmd == "sample":
-        print(sampling.draw_sample(c, a.name, a.seed, a.n_random, a.n_lexicon, load_lexicon(a.lexicon), a.country))
+        print(sampling.draw_sample(c, a.name, a.seed, a.n_random, a.n_lexicon, load_lexicon(a.lexicon, ("verified",)), a.country))
     elif a.cmd == "assign":
         al = a.annotators.split(",")
         annotation.add_annotators(c, al)
